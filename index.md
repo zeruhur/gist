@@ -5,9 +5,9 @@ GIST! is a very freeform and streamlined ruleset, inspired by the Free Kriegsspi
 ## GIST! Editions:
 GIST! is available in two flavors: core and FKR Edition. The core edition is also available in Italian.
 
-[GIST! core](GIST!.md)
-[GIST! core (italian)](GIST!_ita.md)
-[GIST! FKR Edition](GIST!_FKR.md)
+* [GIST! core](GIST!.md)
+* [GIST! core (italian)](GIST!_ita.md)
+* [GIST! FKR Edition](GIST!_FKR.md)
 
 ## Powered by GIST!
 At the moment, GIST! is used as game system for my full-fledged RPG *Roamers of the Dream*. Let me know if you use or hack GIST!, I'll it to the following list:
