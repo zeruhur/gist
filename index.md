@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to GIST!
 
-You can use the [editor on GitHub](https://github.com/zeruhur/gist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+GIST! is a very freeform and streamlined ruleset, inspired by the Free Kriegsspiel Revolution and Old School Renaissance movements, based on the most famous old school sci-fi RPG, but intended to be used in any setting or genre. The system is designed to be very flexible and hackable. Hacks are indeed encouraged and welcomed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## GIST! Editions:
+GIST! is available in two flavors: core and FKR Edition. The core edition is also available in Italian.
 
-### Markdown
+[GIST! core](GIST!.md)
+[GIST! core (italian)](GIST!_ita.md)
+[GIST! FKR Edition](GIST!_FKR.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Powered by GIST!
+At the moment, GIST! is used as game system for my full-fledged RPG *Roamers of the Dream*. Let me know if you use or hack GIST!, I'll it to the following list:
 
-```markdown
-Syntax highlighted code block
+* [*Roamers of the Dream*](https://zeruhur.itch.io/roamers-of-the-dream)
 
-# Header 1
-## Header 2
-### Header 3
+## External Links:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeruhur/gist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[My itch.io page](https://zeruhur.itch.io/)
+[My DriveTrhu Publisher page](https://www.drivethrurpg.com/browse/pub/18634/Wolf-Moon-Games)
