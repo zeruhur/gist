@@ -126,7 +126,7 @@ Qualsiasi oggetto utile, per un compito che richiede una Prova, fornisce un modi
 
 Le armature garantiscono una riduzione del danno compresa tra 1 e 3, a seconda dello spessore.
 
-# Combat
+# Combattimento
 
 Il combattimento è un compito effettuato con una Prova di Opposizione, suddiviso in round. In ciascun round un personaggio ha due azioni a scelta tra: movimento, attacco, difesa, uso dei poteri. È possibile eseguire una doppia azione (dello stesso tipo) rinunciando all'altra.
 
