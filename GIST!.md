@@ -1,4 +1,4 @@
-# GIST
+# GIST!
 
 (Generic Immediate System for Tabletop)
 
