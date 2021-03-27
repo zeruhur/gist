@@ -9,6 +9,7 @@ GIST! is available in two flavors: core and FKR Edition. The core edition is als
 * [GIST! core](GIST!.md)
 * [GIST! core (italian)](GIST!_ita.md)
 * [GIST! FKR Edition](GIST!_FKR.md)
+* [GIST! Edizione FKR (GIST!_FKR_ITA.md)
 
 ## Powered by GIST!
 
