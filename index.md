@@ -9,13 +9,13 @@ GIST! is available in two flavors: core and FKR Edition. The core edition is als
 * [GIST! core](GIST!.md)
 * [GIST! core (italian)](GIST!_ita.md)
 * [GIST! FKR Edition](GIST!_FKR.md)
-* [GIST! Edizione FKR (GIST!_FKR_ITA.md)
+* [GIST! Edizione FKR](GIST!_FKR_ITA.md)
 
 ## Powered by GIST!
 
 At the moment, GIST! is used as game system for my full-fledged RPG *Roamers of the Dream*. Let me know if you use or hack GIST!, I'll it to the following list:
 
-*[*Roamers of the Dream*](https://zeruhur.itch.io/roamers-of-the-dream)
+* [*Roamers of the Dream*](https://zeruhur.itch.io/roamers-of-the-dream)
 
 ## External Links:
 
