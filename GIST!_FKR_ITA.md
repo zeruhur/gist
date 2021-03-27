@@ -6,8 +6,6 @@ Questa versione di GIST! cerca di essere aderente al principio generale della Fr
 
 ## Generazione dei personaggi
 
-Characters are describe by six stats:
-
 I personaggi sono descritti da sei statistiche:
 
 1. **Vigore (VIG)**: abilità fisica, potenza e forza.
@@ -17,7 +15,7 @@ I personaggi sono descritti da sei statistiche:
 5. **Conoscenza (CON)**: misura dell'apprendimento e dell'esperienza.
 6. **Personalità (PER)**: forza emotiva, personalità e posizione sociale.
 
-Tira 2d6 per ciascuno e annota Bonus e Livello. Ignora le statistiche di livello mediocre poiché sono nella media e non concedono alcun bonus. Durante il gioco, se le circostanze influenzano negativamente una Stat del personaggio, il suo punteggio può scendere temporaneamente a un livello inferiore.
+Tira **2d6** per ciascuno e annota Bonus e Livello. Ignora le statistiche di livello mediocre poiché sono nella media e non concedono alcun bonus. Durante il gioco, se le circostanze influenzano negativamente una Stat del personaggio, il suo punteggio può scendere temporaneamente a un livello inferiore.
 
 | Punteggio | Modificatore | Livello    |
 |:---------:|:------------:|:----------:|
@@ -28,8 +26,8 @@ Tira 2d6 per ciascuno e annota Bonus e Livello. Ignora le statistiche di livello
 | 12 - 14   | +2           | Ottimo     |
 | 15 - 17   | +3           | Eccellente |
 
-Le abilità sono una misura approssimativa della competenza di un personaggio. Qualsiasi abilità utile in una prova garantisce un bonus pari al suo punteggio. Il tono e la granularità dell'elenco delle abilità è determinato dall'arbitro in coerenza con l'ambientazione e il genere scelti.
-Ogni volta che un'abilità è messa alla prova particolarmente dalle circostanze, l'Arbitro può concedere un tiro di Avanzamento al giocatore, tirando contro 8+. In caso di successo, quella particolare abilità acquisisce un livello aggiuntivo.
+Le **abilità** sono una misura approssimativa della competenza di un personaggio. Qualsiasi abilità utile in una prova garantisce un bonus pari al suo punteggio. Il tono e la granularità dell'elenco delle abilità è determinato dall'arbitro in coerenza con l'ambientazione e il genere scelti.
+Ogni volta che un'abilità è **messa alla prova particolarmente** dalle circostanze, l'Arbitro può concedere un tiro di **Avanzamento** al giocatore, tirando contro 8+. In caso di successo, quella particolare abilità acquisisce un livello aggiuntivo.
 
 | Punteggio | Livello        |
 |:---------:|:--------------:|
@@ -40,15 +38,15 @@ Ogni volta che un'abilità è messa alla prova particolarmente dalle circostanze
 | 3         | Veterano       |
 | 4         | Maestro        |
 
-Scegli tre abilità rispettivamente di livello Competente, Professionista e Veterano.
-Scegli un'occupazione per il personaggio. Il personaggio è in grado di fare qualsiasi cosa relativa alla sua occupazione come un'abilità di livello esperto. Anche gli strumenti del mestiere sono dati per scontati.
-Scegli due elementi come equipaggiamento iniziale. Qualsiasi oggetto utile, per un'attività che richiede una Prova, garantisce un bonus di +1.
-Dai al personaggio un nome e la sua età.
+Scegli **tre abilità** rispettivamente di livello Competente, Professionista e Veterano.
+Scegli un'occupazione per il personaggio. Il personaggio è in grado di fare qualsiasi cosa relativa alla sua **occupazione** come un'abilità di livello esperto. Anche gli strumenti del mestiere sono dati per scontati.
+Scegli **due oggetti** come equipaggiamento iniziale. Qualsiasi oggetto utile, per un'attività che richiede una Prova, garantisce un bonus di +1.
+Dai al personaggio un **nome** e la sua **età**.
 
 ## Risoluzione dei compiti
 
-Ogni azione nel gioco (incluso il combattimento) è un compito. La maggior parte di essi può essere giudicata dal contesto e dal modo in cui il giocatore descrive come il personaggio le esegue.
+Ogni **azione** nel gioco (incluso il combattimento) è un compito. La maggior parte di essi può essere giudicata dal contesto e dal modo in cui il giocatore descrive come il personaggio le esegue.
 Le attività sono descritte in modo narrativo, ma a volte sarà necessaria una Prova quando il risultato non è ovvio né scontato.
-In quei casi sia il giocatore che l'arbitro tirano 2d6 e aggiungono bonus, ritirando i pareggi. Se il tiro del giocatore è il più alto, l'azione ha successo.
-Un risultato naturale di 2 o 12 (senza applicare alcun bonus) è sempre un fallimento critico o un successo.
-Ogni personaggio ha 5 punti ferita. Se fallise un compito pericoloso (come il combattimento), perde 1 HP. Quando gli HP scendono a 0, il personaggio è morto. L'efficacia e la velocità di guarigione vengono giudicate nel contesto narrativo del gioco.
+In quei casi sia il giocatore che l'arbitro tirano **2d6** e aggiungono **bonus**, ritirando i pareggi. Se il tiro del giocatore è il più alto, l'azione ha successo.
+Un risultato naturale di **2** o **12** (senza applicare alcun bonus) è sempre un **Fallimento** o **Successo Critico**.
+Ogni personaggio ha **5 Punti Ferita**. Se fallise un compito pericoloso (come il combattimento), perde 1 PF. Quando i PF scendono a 0, il personaggio è morto. L'efficacia e la velocità di guarigione vengono giudicate nel contesto narrativo del gioco.
