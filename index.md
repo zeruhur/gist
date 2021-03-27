@@ -1,4 +1,4 @@
-## Welcome to GIST!
+# Welcome to GIST!
 
 GIST! is a very freeform and streamlined ruleset, inspired by the Free Kriegsspiel Revolution and Old School Renaissance movements, based on the most famous old school sci-fi RPG, but intended to be used in any setting or genre. The system is designed to be very flexible and hackable. Hacks are indeed encouraged and welcomed.
 
