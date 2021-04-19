@@ -1,8 +1,10 @@
-# GIST!
+# GIST
 
 (Generic Immediate System for Tabletop)
 
 CC BY-SA 2021 by Roberto Bisceglie
+
+Version 1.5
 
 This is a very freeform and streamlined ruleset, inspired by the Free Kriegsspiel Revolution and Old School Renaissance movements, based on the most famous old school sci-fi RPG, but intended to be used in any setting or genre. The system is designed to be very flexible and hackable. Hacks are indeed encouraged and welcomed.
 
@@ -80,14 +82,6 @@ The scale may go beyond 17. These scores are super-human domain. To determine a 
 | 12 - 14    | +2            | Great    |
 | 15 - 17    | +3            | Superb   |
 
-A simple shorthand to write down scores uses letters for values above 9, as follows:
-
-| 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A   | B   | C   | D   | E   | F   | G   | H   | K   | J   | L   | M   | N   | P   | Q   | R   | S   | T   | U   | V   | W   |
-
-This shorthand skips the letters I and O to not confuse them with the numbers 1 and 0.
-
 Usually, a normal human being is limited to the maximum score of 15 (F). Other beings may exceed this limit.
 
 ### Temporary scores
@@ -100,6 +94,7 @@ Any useful skill, in a situation that requires a check, grants as roll modifier 
 
 | Skill Score | Level        |
 |:-----------:|:------------:|
+| -1          | Unskilled    |
 | 0           | Skilled      |
 | 1           | Competent    |
 | 2           | Professional |
@@ -129,6 +124,8 @@ The tone and the granularity of the skills list is determined by the Referee con
 # Gear
 
 Any useful item, for a task that requires a Check, grants a +1 roll modifier. 
+
+# Armor
 
 Armor items grant a damage reduction ranging between 1 and 3, depending on the thickness.
 
@@ -174,3 +171,73 @@ After an amount of days equal to damage divided by 4 of rest a wounded character
 # Advancement
 
 Every time a skill is remarkably challenged by the circumstances, the Referee may grant an Advancement roll to the player, rolling against 8+. On success, that particular skill gains an additional level.
+
+# Freeform Magic
+
+Everyone with Magical skill may try to cast a spell. Spells are invoked by wording a simple frase composed by an **action verb** and an **object**.
+
+To cast a spell a player has to make a Magical Check against the difficulty set by the Referee.
+
+As a baseline, here is the Difficulty level by Magical:
+
+| Magical        | Difficulty |
+| -------------- | ---------- |
+| Unskilled      | Hopeless   |
+| Skilled        | Very Hard  |
+| Competent      | Hard       |
+| Professional   | Routine    |
+| Master         | Easy       |
+
+Note that difficulty is situational and it is perfectly feasible in a desperate situation that even a Master may confront a Difficult task.
+
+## Actions
+
+There are five main action verbs a character must state to set a spell:
+
+- **Convey**: to move/communicate
+
+- **Feel**: to perceive/sense
+
+- **Create**: to grow/mutate/heal
+
+- **Control**: to manipulate/command/master
+
+- **Destroy**: to weak/break/damage
+
+## Object
+
+There are six possible objects for a spell:
+
+- **Energy**: this include electricity and fire among others.
+
+- **Matter**: every tangible and natural element such as objects, water, air and so on.
+
+- **Time**: the space-time fabric, limited to the Dream.
+
+- **Mind**: everything that deals with mental domains.
+
+- **Body**: the physical part of a person or creature.
+
+- **Soul**: everything that deals with spiritual force.
+
+## Accidents
+
+Magical can be a overpowering skill or not, depending on the chosen setting. To balance the potential overpower of Magical skilled characters, the Referee may define **Accidents** to make the use of magic more dangerous and risky.
+
+Accidents may be bland or severe and should cause injury, mutations or even the loss of Magical skill itself.
+
+# Creatures and NPCs
+
+Creatures are divided by size, having a different impact on their physical characteristics.
+Sentient beings are effectively NPCs, but they have no limitations on characteristics and abilities like humans.
+To build the other creatures, the reference table below may be useful.
+
+| Size       | Might | Agility | Shape |
+| ---------- | ----- | ------- | ----- |
+| Tiny       | 1d3   | 1d6     | 1d3   |
+| Small      | 1d6   | 1d6     | 1d6   |
+| Medium     | 2d6   | 2d6     | 2d6   |
+| Large      | 3d6   | 2d6+2   | 3d6   |
+| Very Large | 4d6   | 2d6     | 4d6   |
+| Massive    | 5d6   | 2d6-2   | 5d6   |
+| Colossal   | 6d6   | 2d6-4   | 6d6   |
