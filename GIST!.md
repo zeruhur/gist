@@ -8,91 +8,100 @@ Version 2.0
 
 GIST! began as a design experiment aimed at implementing the "original 2d6 science fiction roleplaying game" as a generic setting-agnostic system. 
 This second embodiment departs from its origins but retains its basic principles:
-- quick to read
-- 2d6 only
-- index card character sheets
-- easy-to-remember rules
-- quick combat
-- freeform magic
+- Quick to read.
+- 2d6 only.
+- Index card character sheets.
+- Easy-to-remember rules.
+- Quick combat.
+- Freeform magic.
+- Hack friendly.
 
-It is released under a Creative Commons license, which means that hacks are welcome and encouraged.
+# What is GIST!
 
-# How to play
+GIST! is a roleplaying game in which you will define an imagined space bounded by rules. Actions and events occur through procedure-driven player interaction. This facilitates an emergent shared narrative.
+
+Put plainly, players will assume the roles of characters in a fictional setting. The characters will act according to the rules of the game that will guarantee their success or failure. The outcome of actions will have an effect on the narrative that emerges.
 
 A game of GIST! takes place as a conversation between the Referee and the other players.
 - The Referee sets up the situation, describes the environment and setting, moves the dialogue and actions of the Non-Playing Characters.
 - The Players move in the imagined space of the game through their Playing Character, describing their actions and narrating their conversations. It is up to each player to decide whether to act out their Character or play them impersonally. Players may also ask questions of clarification to the Referee.
 
-Remember: the Referee is also a player, but with a different role from the other participants!
+To play you will need:
+- At least 2 players, one will cover the role of Referee. The ideal number of players is 3-4 players, maximum 5.
+- At least 2d6, preferably one set for each player.
+- Writing instruments, index cards and sheets of paper for note-taking.
 
-The Referee describes the situation, the environment and any actions of the non-player characters. Players describe their actions, which are adjudicated by the Referee with respect to the setting. When the outcome of an action cannot be defined based on the context, the Referee may request a check from the player.
+## Game Principles
 
-# Task Resolution
+It is important that everyone at the table feels comfortable and has the following principles in mind:
+- This is a lightweight ruleset, designed to focus on fiction rather than mechanics. If you wish to engage mostly mechanics, there are other rulesets that will suit your taste.
+- The Referee is a player like the others although with different duties. They should not take more responsibility for the success of the game than the other players at the table.
+- The Referee does not play against other players, he merely adjudicates situations with respect to the context of the game.
+- GIST! is designed for collaborative play, so competition between players should be discouraged. Characters act together to overcome challenges presented by the game world.
+- Ask the referee questions clearly. The Referee should clearly present to the players the risks the characters take with each action.
+- First describe the action and then only if needed roll the dice if the Referee requests it.
 
+## Safety Tools
 
+Just because you are gathered around a table do not assume that everyone will be comfortable with the issues addressed by the game or the actions of the other players. 
 
-Every action in the game is a task. Many of them can be adjudicate from the context and how the player describes the character performing them. Sometimes a check will be needed.
+There are safety tools that will help you make the game comfortable before, during, and after the session.
 
-## Checks
+### Before play
+- [**Lines And Veils**](https://rpg.stackexchange.com/questions/30906/what-do-the-terms-lines-and-veils-mean) (by Ron Edwards): Ask your players which contents make them feel uncomfortable and decide how to handle them. “Lines” are contents which they want to exclude from the plot completely. ”Veils” are topics which should only be part of the story in a softened, mitigated form. Offering the players suggestions helps to break the ice.
+- **Content Warning**: Signal potentially critical topics in your story to your players before the start of the game. This is especially helpful at conventions, where a summary of your game session is shown on an online or offline notice board. In this way only players sign up who are comfortable with the contents of your scenario.
+- **Tone Conversation**: Tell your players which in-game atmosphere you aim for. Examples are creepy, sad, dreamy or lighthearted. Clarifying this upfront helps to have everyone work towards the same mood in the scenario.
+- **Open Door Policy**: Tell your players that they can leave your game session at any time, no questions asked. No matter if they feel uncomfortable with a certain topic of the story, or if they simply don’t enjoy the game, they can always stand up and say goodbye.
+- [**C.A.T.S.**](http://proleary.com/2016/04/25/the-cats-method-a-story-telling-game-opening-ritual/) (by Patrick O’Leary) Give the players a rough summary of the game’s contents in four steps:
+  1. Concept: What is the game about? Summary of the setting, characters and the main plot.
+  2. Aim: What is the goal of the players? To overcome an enemy? Player-versus-player? Play-to-lose?
+  3. Tone: Which kind of atmosphere do you want to achieve? Creepy, serious, goofy?
+  4. Subject Matter: Discussing potentially critical topics, ask for your players’ consent.
 
-To determine the success of any task which outcome is not obvious nor granted, there are two types of check:
+### During Play
 
-1. Opposition Check: performed when two characters oppose one another. Both of them roll 2d6 and add modifiers, re-rolling ties. Who rolls higher wins.
+- [**X-Card**](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit?usp=sharing) (by John Stavropoulos): Put a card or sheet of paper with a big X on it on the table. If someone taps the card or holds it up, this signals that the content of the current scene makes them feel uncomfortable. You should then quickly end this scene or change the topic. If necessary, it’s ok to ask the player to clarify. Other than that the player raising the X-Card is not meant to explain their reasons for doing so.
+- [**Script Change**](https://briebeau.com/thoughty/script-change/) (by Beau Jágr Sheldon): Put a card or piece of paper on the table with these symbols on it: 1. Pause: Stop the game to ask questions and clarify details. 2. Fast backwards: Go back in time and adjust what has happened in the last few
+moments in-game. 3. Fast forward: Quickly finish up the current scene or skip to the next one. When altering scenes with this tool, discussion is welcome and necessary to get consent from everyone at the table.
+- **Check In**: During play simply ask another player, “Hey, is everything fine? Is the current scene ok with you?” The other one then replies with a Yes/No, thumb up or down, nodding or shaking their head. This lets you know if you can move forward with the current topic, or if you should take it more easy with this content or even end the scene quickly.
 
-2. Target Number Check: performed, when the Referee determines a fixed difficulty, as follows:
-   
-   1. Roll 2d6.
-   
-   2. Add the roll modifiers granted by stats, skills or gear.
-   
-   3. Compare the modified roll to the target number: if the result is equal or greater, the action succeeds.
+### After Play
 
-| Target Number | Difficulty      |
-|:-------------:|:---------------:|
-| 2             | Trivial         |
-| 4             | Easy            |
-| 6             | Routine         |
-| 8             | Average         |
-| 10            | Hard            |
-| 12            | Very hard       |
-| 14            | Nearly Hopeless |
-
-## Critical Rolls
-
-A natural roll of 2 or 12 (without applying any modifier) is always a Critical Failure or Success.
+- **Debrief**: Talk about everyone’s experiences with the game, tackle open questions and give each other feedback. This eases up some of the emotional tension that may have built up during play.
+- **Roses and Thorns**: Ask your players these two questions: 1. Which part of the game did you like the most? 2. Which part of the game would you have done differently, if you could? Everyone takes a turn. As each player starts out with some positive feedback, it’s easier for them to provide some criticism afterwards.
 
 # Character generation
 
-Character generation is very streamlined: you can start the game within minutes and the character sheets can be contained in an index card. The same procedure is used by the Referee to generate foes and NPCs:
+GIST! involves competent characters facing dangers and challenges in a shrewd and proactive way. Its core is the character's background, aided by skills.
 
-1. Roll 2d6 six times and assign to stats in order or as you wish. 
-   (Alternative) Distribute 46 points between stats as you wish.
+Both are determined freeform, but the Referee can help less savvy players by providing a list of both background and skills suitable for the setting, or help players define their character.
 
-2. Choose an occupation for the character. The character is able to do anything related to their occupation as a Skilled Level skill. Tools of the trade are also taken for granted.
+Character are streamlined and take only a few minutes to be made. Both playing and non-playing characters (including opponents) follow the same generation rules.
+
+1. Roll 2d6 four times and assign to stats in order or as you wish. 
+   (Alternative) Distribute 30 points between stats as you wish.
+
+2. Choose a background for the character. The character is able to do anything related to their background as a Skilled Level skill. Tools of the trade are also taken for granted.
 
 3. Choose three skills and distribute among them 6 score points. The maximum score for a skill in character generation is 3.
 
 4. Give to the character a name and their age. Choose two items as starting gear.
 
-## Stats
+## Attributes
 
-1. **Might (MIG)**: physical prowess, power and strength.
+1. **Body**: both physical prowess (power and strength) and physical resistance (stamina and fatigue).
 
-2. **Agility (AGI)**: quickness, the ability of moving quickly and easily.
+2. **Agility**: quickness, dexterity, deftness.
 
-3. **Shape (SHA)**: physical resistance and ability to sustain stain and damage.
+3. **Mind**: intelligence, common sense, creativity and knowledge.
 
-4. **Mind (MIN)**: the measure of intelligence, common sense and spiritual power.
+4. **Soul**: emotional strength, personality, standing and spiritual power.
 
-5. **Knowledge (KNO)**: the measure of learning and experience.
+### Attribute Scores
 
-6. **Personality (PER)**: emotional strength, personality and standing
+An Attribute score determines both the Roll Modifier to apply to Checks and the Level to be used as a freeform qualitative indicator of the Stat rank.
 
-### Stats Scores
-
-A Stat score determines both the Roll Modifier to apply to Checks and the Level to be used as a freeform qualitative indicator of the Stat rank.
-
-The scale may go beyond 17. These scores are super-human domain. To determine a Roll Modifier take the score divided by 3, truncate decimals and then subtract 2.
+To determine a Roll Modifier take the score divided by 3, truncate decimals and then subtract 2.
 
 | Stat Score | Roll Modifier | Level    |
 |:----------:|:-------------:|:--------:|
@@ -103,15 +112,15 @@ The scale may go beyond 17. These scores are super-human domain. To determine a 
 | 12 - 14    | +2            | Great    |
 | 15 - 17    | +3            | Superb   |
 
-Usually, a normal human being is limited to the maximum score of 15 (F). Other beings may exceed this limit.
+Usually, a normal human being is limited to the maximum score of 15. Other beings may exceed this limit into the super-human domain. 
 
 ### Temporary scores
 
-If circumstances impact negatively a character Stat, its score may temporary drop to a lower Level. For example, when when a character with a Good Personality loses a social contest, their Personality drops to Mediocre Level.
+If circumstances impact negatively a character Attribute, its score may temporary drop to a lower Level. For example, when when a character with a Good Mind loses an intellectual challenge, their Mind drops to Mediocre Level until it has recovered.
 
 # Skills
 
-Any useful skill, in a situation that requires a check, grants as roll modifier equal to its score. The total score of all the character's skill may not exceed the sum of Mind and Knowledge scores.
+Any useful skill, in a situation that requires a check, grants as roll modifier equal to its score. The total score of all the character's skill may not exceed twice the value of Mind score.
 
 | Skill Score | Level        |
 |:-----------:|:------------:|
@@ -124,7 +133,7 @@ Any useful skill, in a situation that requires a check, grants as roll modifier 
 
 If characters attempt something out of their competence, they are Unskilled and suffer a Roll Modifier of -1.
 
-The tone and the granularity of the skills list is determined by the Referee consistently with the chosen setting and genre.  The following is a generic list which can be modified and expanded as seen fit:
+The tone and the granularity of the skills list is determined by the Referee consistently with the chosen setting and genre. The following is a generic list which can be modified and expanded as seen fit:
 
 1. Athletic (agility, stamina, strength, sports)  
 
@@ -141,6 +150,26 @@ The tone and the granularity of the skills list is determined by the Referee con
 7. Skillful ("hands stuff", tracking, burglary, sailing)  
 
 8. Social (speaking, carousing, gossip, etiquette)
+
+# Action Resolution
+
+Most of actions can be adjudicate from the context and how the player describes the character performing them. When the outcome is uncertain, however, the Referee may request a check:
+
+1. **Opposition Check**: performed when two characters oppose one another. Both of them roll 2d6 and add modifiers, re-rolling ties. Who rolls higher wins.
+
+2. **Difficulty Check**: performed, when the Referee determines a fixed difficulty, as follows:
+   
+   1. The Referee states the difficulty of the action, adding a situational modifier between - 2 and +2 to scale if needed
+   
+   2. The player rolls 2d6 and ands the roll modifiers granted by attribute, skills or gear.
+   
+   3. If the modified roll is equal or greater than 8, the action succeeds.
+
+## Critical Rolls
+
+A natural roll of 2 or 12 (without applying any modifier) is always a Critical Failure or Success.
+
+
 
 # Gear
 
@@ -225,9 +254,9 @@ There are five main action verbs a character must state to set a spell:
 
 - **Destroy**: to weak/break/damage
 
-## Object
+## Focus
 
-There are six possible objects for a spell:
+There are six possible foci for a spell:
 
 - **Energy**: this include electricity and fire among others.
 
@@ -241,11 +270,11 @@ There are six possible objects for a spell:
 
 - **Soul**: everything that deals with spiritual force.
 
-## Accidents
+## Mishaps
 
-Magical can be a overpowering skill or not, depending on the chosen setting. To balance the potential overpower of Magical skilled characters, the Referee may define **Accidents** to make the use of magic more dangerous and risky.
+Magical can be a overpowering skill or not, depending on the chosen setting. To balance the potential overpower of Magical skilled characters, the Referee may define **Mishaps** to make the use of magic more dangerous and risky.
 
-Accidents may be bland or severe and should cause injury, mutations or even the loss of Magical skill itself.
+Mishaps may be bland or severe and should cause injury, mutations or even the loss of Magical skill itself.
 
 # Creatures and NPCs
 
@@ -262,3 +291,11 @@ To build the other creatures, the reference table below may be useful.
 | Very Large | 4d6   | 2d6     | 4d6   |
 | Massive    | 5d6   | 2d6-2   | 5d6   |
 | Colossal   | 6d6   | 2d6-4   | 6d6   |
+
+# For the Referee
+
+A game of GIST! should be as much a challenge for a player as it is for the character.
+
+The game is not based on a clear separation of player and character: what makes sense in the game context and what the character can reasonably know can be attempted.
+
+Tactical infinity should be the main resolution engine of any action.
