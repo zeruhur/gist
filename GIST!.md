@@ -1,14 +1,35 @@
-# GIST
+# GIST!
 
 (Generic Immediate System for Tabletop)
 
-CC BY-SA 2021 by Roberto Bisceglie
+CC-BY-SA 2022 by Roberto Bisceglie
 
-Version 1.5
+Version 2.0
 
-This is a very freeform and streamlined ruleset, inspired by the Free Kriegsspiel Revolution and Old School Renaissance movements, based on the most famous old school sci-fi RPG, but intended to be used in any setting or genre. The system is designed to be very flexible and hackable. Hacks are indeed encouraged and welcomed.
+GIST! began as a design experiment aimed at implementing the "original 2d6 science fiction roleplaying game" as a generic setting-agnostic system. 
+This second embodiment departs from its origins but retains its basic principles:
+- quick to read
+- 2d6 only
+- index card character sheets
+- easy-to-remember rules
+- quick combat
+- freeform magic
 
-# Game System
+It is released under a Creative Commons license, which means that hacks are welcome and encouraged.
+
+# How to play
+
+A game of GIST! takes place as a conversation between the Referee and the other players.
+- The Referee sets up the situation, describes the environment and setting, moves the dialogue and actions of the Non-Playing Characters.
+- The Players move in the imagined space of the game through their Playing Character, describing their actions and narrating their conversations. It is up to each player to decide whether to act out their Character or play them impersonally. Players may also ask questions of clarification to the Referee.
+
+Remember: the Referee is also a player, but with a different role from the other participants!
+
+The Referee describes the situation, the environment and any actions of the non-player characters. Players describe their actions, which are adjudicated by the Referee with respect to the setting. When the outcome of an action cannot be defined based on the context, the Referee may request a check from the player.
+
+# Task Resolution
+
+
 
 Every action in the game is a task. Many of them can be adjudicate from the context and how the player describes the character performing them. Sometimes a check will be needed.
 
