@@ -167,21 +167,37 @@ Most of actions can be adjudicate from the context and how the player describes 
 
 ## Critical Rolls
 
-A natural roll of 2 or 12 (without applying any modifier) is always a Critical Failure or Success.
+A natural roll of 2 or 12 (without applying any modifier) is always a Critical Failure or Success, regardless of modifiers.
 
+## Scaling Difficulty
 
+If an action is inferred as trivial from the context of play, the Referee will avoid asking for a check.
 
-# Gear
+If action is impossible, the Arbitrator can act in two ways:
+1. separate the action into a chain of simpler actions
+2. declare the action impossible and move the fiction forward.
 
-Any useful item, for a task that requires a Check, grants a +1 roll modifier. 
+If the action falls within the realm of possibility and requires a check, the Referee will consider whether a modifier should be applied to the shot according to the following scale. Most of the actions will be of Average Difficulty.
 
-# Armor
+| Modifier | Difficulty |
+|:--------:|:----------:|
+|    - 2   |    Easy    |
+|     0    |   Average  |
+|     2    |    Hard    |
 
-Armor items grant a damage reduction ranging between 1 and 3, depending on the thickness.
+## Gear
+
+The equipment provides an advantage within the fiction that results in a +1 bonus to the Check for each useful item in the action.
+
+Gear can be damaged or lost within the context of the game. The Referee has the final word regarding this.
+
+## Armor
+
+Armor items grant a damage reduction ranging between 1 (light) and 3 (heavy), depending on the thickness.
 
 # Combat
 
-Combat is a task checked by Opposition, split up in rounds. Every round a character has two actions chosen from: move, attack, defense, use of powers. It is possible to perform a double action (of the same type) forgoing the other.
+Combat is an action checked by Opposition, split up in rounds. Every round a character has two actions chosen from: move, attack, defense, use of powers. It is possible to perform a double action (of the same type) forgoing the other.
 
 The combat procedure takes place as follows:
 
@@ -291,6 +307,8 @@ To build the other creatures, the reference table below may be useful.
 | Very Large | 4d6   | 2d6     | 4d6   |
 | Massive    | 5d6   | 2d6-2   | 5d6   |
 | Colossal   | 6d6   | 2d6-4   | 6d6   |
+
+# Advancement
 
 # For the Referee
 
