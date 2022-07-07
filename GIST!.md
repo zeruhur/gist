@@ -7,7 +7,7 @@ CC-BY-SA 2022 by Roberto Bisceglie
 Version 2.0
 
 GIST! began as a design experiment aimed at implementing the "original 2d6 science fiction roleplaying game" as a generic setting-agnostic system. 
-This second embodiment departs from its origins but retains its basic principles:
+This second embodiment departs from its origins but maintain its core principles:
 - Quick to read.
 - 2d6 only.
 - Index card character sheets.
@@ -78,8 +78,7 @@ Both are determined freeform, but the Referee can help less savvy players by pro
 
 Character are streamlined and take only a few minutes to be made. Both playing and non-playing characters (including opponents) follow the same generation rules.
 
-1. Roll 2d6 four times and assign to stats in order or as you wish. 
-   (Alternative) Distribute 30 points between stats as you wish.
+1. Roll 1d6-1d6 four times, divide by 2 and round off to the unit. Assign the scores to attributes as you wish.
 
 2. Choose a background for the character. The character is able to do anything related to their background as a Skilled Level skill. Tools of the trade are also taken for granted.
 
@@ -99,24 +98,27 @@ Character are streamlined and take only a few minutes to be made. Both playing a
 
 ### Attribute Scores
 
-An Attribute score determines both the Roll Modifier to apply to Checks and the Level to be used as a freeform qualitative indicator of the Stat rank.
+An Attribute Score represents the Roll Modifier to apply to Checks and the Level to be used as a freeform qualitative indicator of the Attribute rank.
 
-To determine a Roll Modifier take the score divided by 3, truncate decimals and then subtract 2.
+| Attribute Roll | Attribute Score | Attribute Level |
+| -------------- | --------------- | --------------- |
+| -5             | -2              | Poor            |
+| -4             | -2              | Poor            |
+| -3             | -1              | Mediocre        |
+| -2             | -1              | Mediocre        |
+| -1             | 0               | Fair            |
+| 0              | 0               | Fair            |
+| +1             | 0               | Fair            |
+| +2             | +1              | Good            |
+| +3             | +1              | Good            |
+| +4             | +2              | Great           |
+| +5             | +2              | Great           |
 
-| Stat Score | Roll Modifier | Level    |
-|:----------:|:-------------:|:--------:|
-| 0 - 2      | -2            | Abysmal  |
-| 3 - 5      | -1            | Poor     |
-| 6 - 8      | 0             | Mediocre |
-| 9 - 11     | +1            | Good     |
-| 12 - 14    | +2            | Great    |
-| 15 - 17    | +3            | Superb   |
-
-Usually, a normal human being is limited to the maximum score of 15. Other beings may exceed this limit into the super-human domain. 
+Usually, a normal human being is limited to the maximum score of +2 (if any bonus is granted to the rolled score). Other beings may exceed this limit into the super-human domain. 
 
 ### Temporary scores
 
-If circumstances impact negatively a character Attribute, its score may temporary drop to a lower Level. For example, when when a character with a Good Mind loses an intellectual challenge, their Mind drops to Mediocre Level until it has recovered.
+If circumstances impact negatively a character Attribute, its score may temporary drop to a lower Level. For example, when when a character with a Good Mind loses an intellectual challenge, their Mind may drop to Fair Level until it has recovered.
 
 # Skills
 
@@ -155,19 +157,19 @@ The tone and the granularity of the skills list is determined by the Referee con
 
 Most of actions can be adjudicate from the context and how the player describes the character performing them. When the outcome is uncertain, however, the Referee may request a check:
 
-1. **Opposition Check**: performed when two characters oppose one another. Both of them roll 2d6 and add modifiers, re-rolling ties. Who rolls higher wins.
+1. **Opposition Check**: performed when two characters oppose one another. Both of them roll 1d6-1d6 and add modifiers, re-rolling ties. Who rolls higher wins.
 
 2. **Difficulty Check**: performed, when the Referee determines a fixed difficulty, as follows:
    
    1. The Referee states the difficulty of the action, adding a situational modifier between - 2 and +2 to scale if needed
    
-   2. The player rolls 2d6 and ands the roll modifiers granted by attribute, skills or gear.
+   2. The player rolls 1d6-1d6 and adds the roll modifiers granted by attribute, skills or gear.
    
-   3. If the modified roll is equal or greater than 8, the action succeeds.
+   3. If the modified roll is equal or greater than 1, the action succeeds.
 
 ## Critical Rolls
 
-A natural roll of 2 or 12 (without applying any modifier) is always a Critical Failure or Success, regardless of modifiers.
+A natural roll of -5 or +5 (without applying any modifier) is always a Critical Failure or Success, regardless of modifiers.
 
 ## Scaling Difficulty
 
@@ -201,7 +203,7 @@ Combat is an action checked by Opposition, split up in rounds. Every round a cha
 
 The combat procedure takes place as follows:
 
-1. Each side determines initiative by rolling 2d6. Who rolls higher acts first. Agility and relevant skills modifier are applied to this roll.
+1. Each side determines initiative by rolling 1d6-1d6. Who rolls higher acts first. Agility and relevant skills modifier are applied to this roll.
 
 2. On their turn, characters take their actions.
 
@@ -213,26 +215,19 @@ Stat and Skills Modifiers are situational and depend also on the attack type. Th
 
 ## Damage
 
-A character has a total of Hit Points equal to Shape score multiplied by 2. 
+A character has a total of Hit Points equal twice the Body Score. 
 
 Every time an attacks blows on an opponent, the difference between the rolls is applied to the losing side as damage. Armor reduce the damage by its score.
 
-If the parrying opponent throws higher than the attackers, this does not apply as damage.
+If the parrying opponent throws higher than the attacker, this does not apply as damage.
 
-A Critical is an automatic success/failure: the opponent HP is halved (rounded down).
-
-When the total damage is equal to the Shape score, the character is wounded and maybe unable to use their Stat modifiers. 
-
-When the total damage is equal all HPs minus two, the character is severely wounded and unable to combat further. If a character blows on a severely wounded opponent, the latter may be dead or definitely out of combat. The winner chooses the opponent's final fate.
-
-When HPs drop to 0, the character falls unconscious and makes a Shape Check against 10+. On failure the character is dead.
+When HPs drops below zero, the character is severely wounded and unable to combat further. If a character blows on a severely wounded opponent, the latter may be dead or definitely out of combat. The winner chooses the opponent's final fate.
 
 ## Healing
 
-A wounded character recovers half of their Hit Points if wounds are treated after the combat with bandages and medicament. A severely wounded character needs immediately medical treatment by an expert in a dedicate facility.
-If the treatment  is not feasible, the character make a Shape Check against 10+ every hour. On failure, the character looses an amount of HP equal to the difference between the roll and 10. If HPs drop to 0, immediately perform the same check. On failure the character is dead.
+After every combat, if HPs are higher than zero, they are immediately restored. If HPs are equal to zero, the character needs immediately medical treatment.
 
-After an amount of days equal to damage divided by 4 of rest a wounded character recovers their full HP. A severely wounded character need a hospitalization period in days equal to damage divided by 2 round up.
+If the treatment is not feasible, the character make a Body Check against 1+. On success, HPs are restored by half the total. On failure the character must retire from action.
 
 # Advancement
 
@@ -240,7 +235,7 @@ Every time a skill is remarkably challenged by the circumstances, the Referee ma
 
 # Freeform Magic
 
-Everyone with Magical skill may try to cast a spell. Spells are invoked by wording a simple frase composed by an **action verb** and an **object**.
+Everyone with Magical skill may try to cast a spell. Spells are invoked by wording a simple frase composed by a **focus** and a **locus**.
 
 To cast a spell a player has to make a Magical Check against the difficulty set by the Referee.
 
@@ -256,9 +251,9 @@ As a baseline, here is the Difficulty level by Magical:
 
 Note that difficulty is situational and it is perfectly feasible in a desperate situation that even a Master may confront a Difficult task.
 
-## Actions
+## Focus
 
-There are five main action verbs a character must state to set a spell:
+There are five main foci a character must state to set a spell:
 
 - **Convey**: to move/communicate
 
@@ -270,9 +265,9 @@ There are five main action verbs a character must state to set a spell:
 
 - **Destroy**: to weak/break/damage
 
-## Focus
+## Locus
 
-There are six possible foci for a spell:
+There are six possible loci for a spell:
 
 - **Energy**: this include electricity and fire among others.
 
@@ -307,8 +302,6 @@ To build the other creatures, the reference table below may be useful.
 | Very Large | 4d6   | 2d6     | 4d6   |
 | Massive    | 5d6   | 2d6-2   | 5d6   |
 | Colossal   | 6d6   | 2d6-4   | 6d6   |
-
-# Advancement
 
 # For the Referee
 
