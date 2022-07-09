@@ -6,8 +6,9 @@ GIST! is a very freeform and streamlined ruleset, inspired by the Free Kriegsspi
 
 GIST! is available in two flavors: core and FKR Edition. The core edition is also available in Italian.
 
-* [GIST! core](GIST!.md)
-* [GIST! core (italian)](GIST!_ita.md)
+* [GIST! Core v.1.5](Gist!.v.1.5.md.md)
+* [GIST! Core v.2.0](GIST!.v.2.0.md.md)
+* [GIST! Core v.1.0 (italian)](GIST!_ita.md)
 * [GIST! FKR Edition](GIST!_FKR.md)
 
 ## Powered by GIST!

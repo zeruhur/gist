@@ -7,7 +7,7 @@ CC-BY-SA 2022 by Roberto Bisceglie
 Version 2.0
 
 GIST! began as a design experiment aimed at implementing the "original 2d6 science fiction roleplaying game" as a generic setting-agnostic system. 
-This second embodiment departs from its origins but maintain its core principles:
+This second embodiment departs slightly from its origins, adding example and clarifications, but maintain its core principles:
 - Quick to read.
 - 2d6 only.
 - Index card character sheets.
@@ -28,7 +28,7 @@ A game of GIST! takes place as a conversation between the Referee and the other 
 
 To play you will need:
 - At least 2 players, one will cover the role of Referee. The ideal number of players is 3-4 players, maximum 5.
-- At least 2d6, preferably one set for each player.
+- At least 2 six sided dice (d6), preferably one set for each player.
 - Writing instruments, index cards and sheets of paper for note-taking.
 
 ## Game Principles
@@ -78,7 +78,8 @@ Both are determined freeform, but the Referee can help less savvy players by pro
 
 Character are streamlined and take only a few minutes to be made. Both playing and non-playing characters (including opponents) follow the same generation rules.
 
-1. Roll 1d6-1d6 four times, divide by 2 and round off to the unit. Assign the scores to attributes as you wish.
+1. Roll 2d6 four times and assign to stats as you see fit. 
+   Alternatively, distribute 30 points between stats as you wish.
 
 2. Choose a background for the character. The character is able to do anything related to their background as a Skilled Level skill. Tools of the trade are also taken for granted.
 
@@ -100,21 +101,15 @@ Character are streamlined and take only a few minutes to be made. Both playing a
 
 An Attribute Score represents the Roll Modifier to apply to Checks and the Level to be used as a freeform qualitative indicator of the Attribute rank.
 
-| Attribute Roll | Attribute Score | Attribute Level |
-| -------------- | --------------- | --------------- |
-| -5             | -2              | Poor            |
-| -4             | -2              | Poor            |
-| -3             | -1              | Mediocre        |
-| -2             | -1              | Mediocre        |
-| -1             | 0               | Fair            |
-| 0              | 0               | Fair            |
-| +1             | 0               | Fair            |
-| +2             | +1              | Good            |
-| +3             | +1              | Good            |
-| +4             | +2              | Great           |
-| +5             | +2              | Great           |
+| Attribute Score | Attribute Modifier | Attribute Level |
+| --------------- | ------------------ | --------------- |
+| 2-3             | -2                 | Poor            |
+| 4-5             | -1                 | Mediocre        |
+| 6-8             | 0                  | Fair            |
+| 9-10            | +1                 | Good            |
+| 11-12           | +2                 | Great           |
 
-Usually, a normal human being is limited to the maximum score of +2 (if any bonus is granted to the rolled score). Other beings may exceed this limit into the super-human domain. 
+Usually, a normal human being is limited to the maximum score of 12 (if any bonus is granted to the rolled score). Other beings may exceed this limit into the super-human domain. 
 
 ### Temporary scores
 
@@ -135,7 +130,7 @@ Any useful skill, in a situation that requires a check, grants as roll modifier 
 
 If characters attempt something out of their competence, they are Unskilled and suffer a Roll Modifier of -1.
 
-The tone and the granularity of the skills list is determined by the Referee consistently with the chosen setting and genre. The following is a generic list which can be modified and expanded as seen fit:
+Skills flavour and granularity are determined by the Referee consistently with the chosen setting and genre. The following is a generic list which can be modified and expanded as seen fit:
 
 1. Athletic (agility, stamina, strength, sports)  
 
@@ -157,19 +152,19 @@ The tone and the granularity of the skills list is determined by the Referee con
 
 Most of actions can be adjudicate from the context and how the player describes the character performing them. When the outcome is uncertain, however, the Referee may request a check:
 
-1. **Opposition Check**: performed when two characters oppose one another. Both of them roll 1d6-1d6 and add modifiers, re-rolling ties. Who rolls higher wins.
+1. **Opposition Check**: performed when two characters oppose one another. Both of them roll 2d6 and add modifiers, re-rolling ties. Who rolls higher wins.
 
 2. **Difficulty Check**: performed, when the Referee determines a fixed difficulty, as follows:
    
    1. The Referee states the difficulty of the action, adding a situational modifier between - 2 and +2 to scale if needed
    
-   2. The player rolls 1d6-1d6 and adds the roll modifiers granted by attribute, skills or gear.
+   2. The player rolls 2d6 and adds the roll modifiers granted by attribute, skills or gear.
    
-   3. If the modified roll is equal or greater than 1, the action succeeds.
+   3. If the modified roll is equal or greater than 8, the action succeeds.
 
 ## Critical Rolls
 
-A natural roll of -5 or +5 (without applying any modifier) is always a Critical Failure or Success, regardless of modifiers.
+A natural roll of 2 or 12 (without applying any modifier) is always a Critical Failure or Success, regardless of modifiers.
 
 ## Scaling Difficulty
 
@@ -203,7 +198,7 @@ Combat is an action checked by Opposition, split up in rounds. Every round a cha
 
 The combat procedure takes place as follows:
 
-1. Each side determines initiative by rolling 1d6-1d6. Who rolls higher acts first. Agility and relevant skills modifier are applied to this roll.
+1. Each side determines initiative by rolling 2d6. Who rolls higher acts first. Agility and relevant skills modifier are applied to this roll.
 
 2. On their turn, characters take their actions.
 
@@ -221,13 +216,13 @@ Every time an attacks blows on an opponent, the difference between the rolls is 
 
 If the parrying opponent throws higher than the attacker, this does not apply as damage.
 
-When HPs drops below zero, the character is severely wounded and unable to combat further. If a character blows on a severely wounded opponent, the latter may be dead or definitely out of combat. The winner chooses the opponent's final fate.
+When HPs drops to zero, the character is severely wounded and unable to combat further. If a character blows on a severely wounded opponent, the latter may be dead or definitely out of combat. The winner chooses the opponent's final fate.
 
 ## Healing
 
 After every combat, if HPs are higher than zero, they are immediately restored. If HPs are equal to zero, the character needs immediately medical treatment.
 
-If the treatment is not feasible, the character make a Body Check against 1+. On success, HPs are restored by half the total. On failure the character must retire from action.
+If the treatment is not feasible, the character make a Body Check against 8+. On success, HPs are restored by half the total. On failure the character must retire from action.
 
 # Advancement
 
@@ -303,7 +298,7 @@ To build the other creatures, the reference table below may be useful.
 | Massive    | 5d6   | 2d6-2   | 5d6   |
 | Colossal   | 6d6   | 2d6-4   | 6d6   |
 
-# For the Referee
+# Note for the Referee
 
 A game of GIST! should be as much a challenge for a player as it is for the character.
 
