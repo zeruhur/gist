@@ -6,17 +6,18 @@ CC-BY-SA 2022 by Roberto Bisceglie
 
 Version 2.0
 
-GIST! began as a design experiment aimed at implementing the "original 2d6 science fiction roleplaying game" as a generic setting-agnostic system. 
-This second embodiment departs slightly from its origins, adding example and clarifications, but maintain its core principles:
-- Quick to read.
-- 2d6 only.
-- Index card character sheets.
-- Easy-to-remember rules.
-- Quick combat.
-- Freeform magic.
-- Hack friendly.
+GIST! began as a design experiment aimed at implementing the "original 2d6 science fiction roleplaying game" as a generic setting-agnostic system.
 
-# What is GIST!
+This second embodiment departs slightly from its origins, adding example and clarifications, but maintain its core principles:
+- Quick to read
+- 2d6 only
+- Index card character sheets
+- Easy-to-remember rules
+- Quick combat
+- Freeform magic
+- Hack friendly
+
+## What is GIST!
 
 GIST! is a roleplaying game in which you will define an imagined space bounded by rules. Actions and events occur through procedure-driven player interaction. This facilitates an emergent shared narrative.
 
@@ -70,7 +71,7 @@ moments in-game. 3. Fast forward: Quickly finish up the current scene or skip to
 - **Debrief**: Talk about everyone’s experiences with the game, tackle open questions and give each other feedback. This eases up some of the emotional tension that may have built up during play.
 - **Roses and Thorns**: Ask your players these two questions: 1. Which part of the game did you like the most? 2. Which part of the game would you have done differently, if you could? Everyone takes a turn. As each player starts out with some positive feedback, it’s easier for them to provide some criticism afterwards.
 
-# Character generation
+## Character generation
 
 GIST! involves competent characters facing dangers and challenges in a shrewd and proactive way. Its core is the character's background, aided by skills.
 
@@ -148,7 +149,7 @@ Skills flavour and granularity are determined by the Referee consistently with t
 
 8. Social (speaking, carousing, gossip, etiquette)
 
-# Action Resolution
+## Action Resolution
 
 Most of actions can be adjudicate from the context and how the player describes the character performing them. When the outcome is uncertain, however, the Referee may request a check:
 
@@ -162,11 +163,11 @@ Most of actions can be adjudicate from the context and how the player describes 
    
    3. If the modified roll is equal or greater than 8, the action succeeds.
 
-## Critical Rolls
+### Critical Rolls
 
 A natural roll of 2 or 12 (without applying any modifier) is always a Critical Failure or Success, regardless of modifiers.
 
-## Scaling Difficulty
+### Scaling Difficulty
 
 If an action is inferred as trivial from the context of play, the Referee will avoid asking for a check.
 
@@ -182,17 +183,17 @@ If the action falls within the realm of possibility and requires a check, the Re
 |     0    |   Average  |
 |     2    |    Hard    |
 
-## Gear
+### Gear
 
 The equipment provides an advantage within the fiction that results in a +1 bonus to the Check for each useful item in the action.
 
 Gear can be damaged or lost within the context of the game. The Referee has the final word regarding this.
 
-## Armor
+### Armor
 
 Armor items grant a damage reduction ranging between 1 (light) and 3 (heavy), depending on the thickness.
 
-# Combat
+## Combat
 
 Combat is an action checked by Opposition, split up in rounds. Every round a character has two actions chosen from: move, attack, defense, use of powers. It is possible to perform a double action (of the same type) forgoing the other.
 
@@ -208,7 +209,7 @@ Once applied every relevant modifier (if a Critical is not rolled), the higher r
 
 Stat and Skills Modifiers are situational and depend also on the attack type. The Referee has to adjudicate which modifier is adequate to the situation.
 
-## Damage
+### Damage
 
 A character has a total of Hit Points equal twice the Body Score. 
 
@@ -218,17 +219,17 @@ If the parrying opponent throws higher than the attacker, this does not apply as
 
 When HPs drops to zero, the character is severely wounded and unable to combat further. If a character blows on a severely wounded opponent, the latter may be dead or definitely out of combat. The winner chooses the opponent's final fate.
 
-## Healing
+### Healing
 
 After every combat, if HPs are higher than zero, they are immediately restored. If HPs are equal to zero, the character needs immediately medical treatment.
 
 If the treatment is not feasible, the character make a Body Check against 8+. On success, HPs are restored by half the total. On failure the character must retire from action.
 
-# Advancement
+## Advancement
 
 Every time a skill is remarkably challenged by the circumstances, the Referee may grant an Advancement roll to the player, rolling against 8+. On success, that particular skill gains an additional level.
 
-# Freeform Magic
+## Freeform Magic
 
 Everyone with Magical skill may try to cast a spell. Spells are invoked by wording a simple frase composed by a **focus** and a **locus**.
 
@@ -246,7 +247,7 @@ As a baseline, here is the Difficulty level by Magical:
 
 Note that difficulty is situational and it is perfectly feasible in a desperate situation that even a Master may confront a Difficult task.
 
-## Focus
+### Focus
 
 There are five main foci a character must state to set a spell:
 
@@ -260,7 +261,7 @@ There are five main foci a character must state to set a spell:
 
 - **Destroy**: to weak/break/damage
 
-## Locus
+### Locus
 
 There are six possible loci for a spell:
 
@@ -276,13 +277,13 @@ There are six possible loci for a spell:
 
 - **Soul**: everything that deals with spiritual force.
 
-## Mishaps
+### Mishaps
 
 Magical can be a overpowering skill or not, depending on the chosen setting. To balance the potential overpower of Magical skilled characters, the Referee may define **Mishaps** to make the use of magic more dangerous and risky.
 
 Mishaps may be bland or severe and should cause injury, mutations or even the loss of Magical skill itself.
 
-# Creatures and NPCs
+## Creatures and NPCs
 
 Creatures are divided by size, having a different impact on their physical characteristics.
 Sentient beings are effectively NPCs, but they have no limitations on characteristics and abilities like humans.
@@ -298,7 +299,7 @@ To build the other creatures, the reference table below may be useful.
 | Massive    | 5d6   | 2d6-2   | 5d6   |
 | Colossal   | 6d6   | 2d6-4   | 6d6   |
 
-# Note for the Referee
+## Note for the Referee
 
 A game of GIST! should be as much a challenge for a player as it is for the character.
 
