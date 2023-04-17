@@ -2,13 +2,11 @@
 
 (Generic Immediate System for Tabletop)
 
-CC-BY-SA 2022 by Roberto Bisceglie
-
 Version 2.0
 
-This ruleset is heavily influenced by the Free Kriegsspiel Revolution and Old School Renaissance movements, and draws inspiration from a renowned sci-fi RPG from the old school era. However, it is not restricted to any particular genre or setting, as it is intended to be adaptable and versatile. The rules are designed to be streamlined and flexible, allowing for customization and modifications, which are actively encouraged and embraced.
+This ruleset is heavily influenced by the Free Kriegsspiel Revolution and Old School Renaissance movements, and draws inspiration from the renowned sci-fi RPG from the old school era. However, it is not restricted to any particular genre or setting, as it is intended to be adaptable and versatile. The rules are designed to be streamlined and flexible, allowing for customization and modifications, which are actively encouraged and embraced.
 
-This second iteration deviates slightly from its original form by including additional examples and clarifications, while still upholding its fundamental principles:
+This revised version has been updated to include more detailed examples and explanations, while still maintaining the core principles of the original.
 - Quick to read
 - 2d6 only
 - Index card character sheets
@@ -117,15 +115,15 @@ Skills flavor and granularity are determined by the Referee consistently with th
 > **Example**
 > 
 > Let's say that you are a player who wants to create a character for a GIST! game set in a fantasy world with magic and combat. You begin by determining your attribute scores. You decide to roll 2d6 four times and assign the scores to your stats, as you enjoy the unpredictability of random rolls. Your results are as follows:
-> 
+
 > Shape: 8
 > Agility: 11
 > Mind: 7
 > Soul: 9
 > You choose the background of "Apprentice Mage" for your character, reflecting your past experiences and skills. As an Apprentice Mage, you have a Skilled Level skill in magic and are assumed to have any necessary magical tools at your disposal.
-> 
+
 > Next, you select three skills from the list provided and assign 6 points between them. You choose the following skills:
-> 
+
 > Magical (score 3)
 > Athletic (score 2)
 > Social (score 1)
@@ -147,13 +145,13 @@ A natural roll of 2 or 12 (without applying any modifier) is always a Critical F
 
 ### Scaling Difficulty
 
-If an action is inferred as trivial from the context of play, the Referee will avoid asking for a check.
+If an action seems trivial within the context of play, the Referee will skip the check and allow the player to proceed.
 
-If any action is impossible, the Referee can act in two ways:
-1. separate the action into a chain of simpler actions.
-2. declare the action impossible and move the fiction forward.
+If an action is impossible, the Referee has two options: 
+1. break the action down into a series of simpler actions
+2. declare the action impossible and move on with the story.
 
-If the action falls within the realm of possibility and requires a check, the Referee will consider whether a modifier should be applied to the shot according to the following scale. Most of the actions will be of Average Difficulty.
+If an action is possible but requires a check, the Referee will determine if any modifiers should be applied based on the following difficulty scale, with most actions being of Average difficulty.
 
 | Modifier | Difficulty |
 |:--------:|:----------:|
@@ -163,28 +161,19 @@ If the action falls within the realm of possibility and requires a check, the Re
 
 ### Gear
 
-The equipment provides an advantage within the fiction that results in a +1 bonus to the Check for each useful item in the action.
-
-Gear can be damaged or lost within the context of the game. The Referee has the final word regarding this.
+Equipment can provide an advantage in the game that results in a bonus to the Check. For each useful item in an action, the bonus is +1. However, gear can be damaged or lost during gameplay, and the Referee has the final say in this matter.
 
 ### Armor
 
-Armor items grant a damage reduction ranging between 1 (light) and 3 (heavy), depending on the thickness.
+The thickness of armor determines the extent of damage reduction it provides, which can range from 1 (for light armor) to 3 (for heavy armor).
 
 Here are some examples:
 
-- Fantasy:
-  - Chainmail armor (medium)
-  - Plate armor (heavy)
-  - Leather armor (light)
--  Science fiction:
-   - Power armor (heavy)
-   - Energy shields (light)
-   - Environmental suits (medium)
-- Modern setting:
-  - Bulletproof vests (medium)
-  - Riot gear (heavy)
-  - Tactical helmets (light)
+| Armor Type & Value | Fantasy   | Science Fiction   | Modern           |
+| ------------------ | --------- | ----------------- | ---------------- |
+| Light (1)          | Leather   | Energy Shield     | Tactical Helmet  |
+| Medium (2)         | Chainmail | Enviromental Suit | Bulletproof Vest |
+| Heavy  (3)         | Plate     | Power Armor       | Riot Gear        |
 
 ### Example
 
@@ -204,33 +193,31 @@ Here are some examples:
 
 ## Combat
 
-Combat is an action checked by Opposition, split up in rounds. Every round a character has two actions chosen from: move, attack, defense, use of powers. It is possible to perform a double action (of the same type) forgoing the other.
+Combat is a contested action that occurs in rounds. Each round, a character can take two actions, chosen from moving, attacking, defending, or using special abilities. It is also possible to perform a double action of the same type, at the cost of forgoing the other action.
 
-The combat procedure takes place as follows:
+During combat, the following procedure is used:
 
-1. Each side determines initiative by rolling 2d6. Who rolls higher acts first. Agility and relevant skills modifier are applied to this roll.
-2. On their turn, characters take their actions.
-3. The round ends. Repeat steps 2-3 until the combat ends.
+1. Determine initiative by rolling 2d6 and applying modifiers based on agility and relevant skills. The side that rolls higher acts first.
+2. On their turn, each character can take their actions.
+3. The round ends after all characters have taken their actions. Repeat steps 2-3 until the combat ends.
 
-Once applied every relevant modifier (if a Critical is not rolled), the higher rolls wins.
+After applying all relevant modifiers, if a Critical is not rolled, the higher roll wins in combat.
 
-Stat and Skills Modifiers are situational and depend also on the attack type. The Referee has to adjudicate which modifier is adequate to the situation.
+Modifiers to Stats and Skills are situational and depend on the attack type. The Referee has to adjudicate which modifier is adequate for the situation.
 
 ### Damage
 
-A character has a total of Hit Points equal twice the Body Score. 
+A character's Hit Points are equal to twice their Shape Score.
 
-Every time an attacks blows on an opponent, the difference between the rolls is applied to the losing side as damage. Armor reduce the damage by its score.
+When an attack lands on an opponent, the damage is determined by subtracting the defender's roll from the attacker's roll. The difference is then applied as damage to the losing side, with the armor score reducing the damage.
 
-If the parrying opponent throws higher than the attacker, this does not apply as damage.
+However, if the defender rolls higher than the attacker, no damage is inflicted.
 
-When HPs drops to zero, the character is severely wounded and unable to combat further. If a character blows on a severely wounded opponent, the latter may be dead or definitely out of combat. The winner chooses the opponent's final fate.
+When a character's HP drops to zero, they become severely wounded and are no longer able to participate in combat. If a character delivers a blow to a severely wounded opponent, the opponent may die or be permanently knocked out of the fight. The victor has the power to choose the defeated opponent's final fate.
 
 ### Healing
 
-After every combat, if HPs are higher than zero, they are immediately restored. If HPs are equal to zero, the character needs immediately medical treatment.
-
-If the treatment is not feasible, the character make a Body Check against 8+. On success, HPs are restored by half the total. On failure the character must retire from action.
+After every combat, characters' HPs are restored immediately if they are higher than zero. However, if HPs are reduced to zero, the character must receive medical treatment immediately. If medical treatment is not feasible, the character must make a Shape Check with a target number of 8 or higher. If the check succeeds, HPs are restored by half of their total. If the check fails, the character must retire from any further action.
 
 ### Example
 
@@ -244,23 +231,21 @@ If the treatment is not feasible, the character make a Body Check against 8+. On
 
 ## Advancement
 
-Every time a skill is remarkably challenged by the circumstances, the Referee may grant an Advancement roll to the player, rolling against 8+. On success, that particular skill gains an additional level.
+Whenever a situation arises in which a skill is particularly challenged, the Referee may offer the player an Advancement roll. The player rolls a 2d6 and must score 8 or higher to succeed. If the roll is successful, the character gains an additional level in that particular skill. This represents the character learning from their experiences and improving their abilities through practice and dedication.
 
 ## Freeform Magic
 
-Everyone with Magical skill may try to cast a spell. Spells are invoked by wording a simple frase composed by a **focus** and a **locus**.
-
-To cast a spell a player has to make a Magical Check against the difficulty set by the Referee.
+Magical skill allows a player to attempt to cast a spell by crafting a simple phrase consisting of a focus and a locus. The difficulty of the spell is set by the Referee, and the player must make a Magical Check to cast the spell. If successful, the spell is cast, and its effects are determined by the Referee.
 
 As a baseline, here is the Difficulty level by Magical:
 
-|    Magical   | Difficulty |
-|:------------:|:----------:|
-|   Unskilled  |  Hopeless  |
-|    Skilled   |  Very Hard |
-|   Competent  |    Hard    |
-| Professional |   Routine  |
-|    Master    |    Easy    |
+|  Magical  | Difficulty |
+|:---------:|:----------:|
+| Unskilled |  Hopeless  |
+|  Skilled  |  Very Hard |
+| Competent |    Hard    |
+|  Veteran  |   Routine  |
+|   Master  |    Easy    |
 
 Note that difficulty is situational and it is perfectly feasible in a desperate situation that even a Master may confront a Difficult task.
 
@@ -291,7 +276,7 @@ Magical can be a overpowering skill or not, depending on the chosen setting. To 
 
 Mishaps may be bland or severe and should cause injury, mutations or even the loss of Magical skill itself.
 
-Here is a list of a generic mishaps, use it as a reference to flesh out your own.
+Here is a list of a generic mishaps, use it as a reference to flesh out your own:
 
 1. **Backfire**: The spell affects the caster instead of the target. The caster takes damage or is affected by the spell's effect as if they were the target.
 2. **Mutation**: The caster undergoes a physical or mental change, potentially losing or gaining abilities or skills. This could result in permanent stat changes, or cause the character to become disfigured or unstable.
@@ -467,12 +452,18 @@ A humanoid creature with wings and glowing red eyes. It is known for appearing b
 
 Stats: Shape 3d6, Agility 2d6+2
 
-## Note for the Referee
+## Advice for the Referee
 
 As the Referee, your primary goal in GIST! is to create an immersive and challenging experience for the players. The game is designed to blur the line between the player and the character, allowing players to attempt actions that make sense in the game context, even if their character may not have the necessary skills or knowledge.
 
 To achieve this, you should encourage players to think creatively and come up with innovative solutions to challenges presented in the game. The game mechanics, such as the freeform magic system and the use of Mishaps to balance powerful abilities, are meant to encourage players to think outside the box and not rely solely on their character's stats.
 
-Tactical infinity shoulbe the main resolution engine for any action. This means that the outcome of an action is not solely determined by the character's stats or the roll of the dice, but by the player's ability to come up with a creative and effective plan. As the Referee, it is important to reward players who think creatively and make smart decisions, while still providing a challenging and immersive game world.
+Tactical infinity should be the main resolution engine for any action. This means that the outcome of an action is not solely determined by the character's stats or the roll of the dice, but by the player's ability to come up with a creative and effective plan. As the Referee, it is important to reward players who think creatively and make smart decisions, while still providing a challenging and immersive game world.
 
 In GIST!, the focus should be on creating an immersive and interactive game world where players have the freedom to explore and make decisions that will impact the story. As a Referee, it's important not to overly structure the game with complex plots and predetermined storylines. Instead, focus on creating interesting and challenging situations that players can engage with and respond to. By doing so, you'll allow the game world to evolve naturally based on the actions of the players, rather than trying to force them down a specific path. As you resolve player actions and respond to their decisions, you'll discover together where the game takes you, creating an exciting and unpredictable narrative that unfolds through the actions and decisions of the players.
+
+## License
+
+(CC) 2023 Roberto Bisceglie
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
