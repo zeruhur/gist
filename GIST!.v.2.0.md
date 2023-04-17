@@ -6,9 +6,9 @@ CC-BY-SA 2022 by Roberto Bisceglie
 
 Version 2.0
 
-GIST! began as a design experiment aimed at implementing the "original 2d6 science fiction roleplaying game" as a generic setting-agnostic system.
+This ruleset is heavily influenced by the Free Kriegsspiel Revolution and Old School Renaissance movements, and draws inspiration from a renowned sci-fi RPG from the old school era. However, it is not restricted to any particular genre or setting, as it is intended to be adaptable and versatile. The rules are designed to be streamlined and flexible, allowing for customization and modifications, which are actively encouraged and embraced.
 
-This second embodiment departs slightly from its origins, adding example and clarifications, but maintain its core principles:
+This second iteration deviates slightly from its original form by including additional examples and clarifications, while still upholding its fundamental principles:
 - Quick to read
 - 2d6 only
 - Index card character sheets
@@ -19,9 +19,9 @@ This second embodiment departs slightly from its origins, adding example and cla
 
 ## What is GIST!
 
-GIST! is a roleplaying game in which you will define an imagined space bounded by rules. Actions and events occur through procedure-driven player interaction. This facilitates an emergent shared narrative.
+GIST! is a roleplaying game that allows players to create and explore an imaginary world governed by a set of rules. Through structured player interactions, actions and events unfold, giving rise to a collaborative, evolving storyline.
 
-Put plainly, players will assume the roles of characters in a fictional setting. The characters will act according to the rules of the game that will guarantee their success or failure. The outcome of actions will have an effect on the narrative that emerges.
+In essence, players will take on the roles of characters within a fictional setting and make decisions based on the game's rules, which determine the likelihood of success or failure. The consequences of these decisions will shape the narrative and influence the course of events.
 
 A game of GIST! takes place as a conversation between the Referee and the other players.
 - The Referee sets up the situation, describes the environment and setting, moves the dialogue and actions of the Non-Playing Characters.
@@ -35,132 +35,110 @@ To play you will need:
 ## Game Principles
 
 It is important that everyone at the table feels comfortable and has the following principles in mind:
-- This is a lightweight ruleset, designed to focus on fiction rather than mechanics. If you wish to engage mostly mechanics, there are other rulesets that will suit your taste.
-- The Referee is a player like the others although with different duties. They should not take more responsibility for the success of the game than the other players at the table.
-- The Referee does not play against other players, he merely adjudicates situations with respect to the context of the game.
-- GIST! is designed for collaborative play, so competition between players should be discouraged. Characters act together to overcome challenges presented by the game world.
-- Ask the referee questions clearly. The Referee should clearly present to the players the risks the characters take with each action.
-- First describe the action and then only if needed roll the dice if the Referee requests it.
+- This ruleset is intentionally streamlined and prioritizes storytelling over complex mechanics. If you are primarily interested in a game with detailed mechanical systems, there are other rulesets that may be better suited to your preferences.
+- Although the Referee has different responsibilities than the other players, they should still be considered as a fellow player and should not shoulder more responsibility for the success of the game than anyone else at the table.
+- The Referee does not compete against other players; their role is solely to arbitrate situations within the context of the game. They are responsible for maintaining consistency, ensuring fairness, and resolving any disputes or conflicts that may arise during play.
+- GIST! is intended to be played collaboratively, with a focus on teamwork and overcoming challenges as a group. As such, competition between players should be discouraged in favor of cooperation and mutual support. The characters should work together to confront the obstacles and threats posed by the game world, rather than engaging in individualistic or adversarial behavior.
+- Players should ask the Referee questions in a concise and straightforward manner. The Referee, in turn, should provide clear and detailed explanations of the potential risks associated with each action taken by the characters. This helps to ensure that players make informed decisions and understand the consequences of their actions.
+- When describing an action, players should first provide a clear and detailed description of what their character is attempting to do. Only after the action has been fully described should the Referee request a dice roll, if necessary, to determine the outcome of the action. This helps to ensure that the narrative flows smoothly and that players have a clear understanding of the sequence of events.
 
 ## Safety Tools
 
-Just because you are gathered around a table do not assume that everyone will be comfortable with the issues addressed by the game or the actions of the other players. 
+It is important to remember that not everyone at the table may be comfortable with the themes or content addressed by the game, or with the actions of the other players. It is therefore important to establish clear boundaries and expectations at the beginning of the game, and to be sensitive to the needs and feelings of all participants throughout the session. It may also be helpful to establish a system for communicating discomfort or taking breaks if needed.
 
-There are safety tools that will help you make the game comfortable before, during, and after the session.
+There are various safety tools and techniques that can help create a comfortable and safe environment for everyone involved in the game, such as [**Lines And Veils**](https://rpg.stackexchange.com/questions/30906/what-do-the-terms-lines-and-veils-mean), [**C.A.T.S.**](http://proleary.com/2016/04/25/the-cats-method-a-story-telling-game-opening-ritual/), the [**X-Card**](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit?usp=sharing), and [**Script Change**](https://briebeau.com/thoughty/script-change/).
 
-### Before play
-- [**Lines And Veils**](https://rpg.stackexchange.com/questions/30906/what-do-the-terms-lines-and-veils-mean) (by Ron Edwards): Ask your players which contents make them feel uncomfortable and decide how to handle them. “Lines” are contents which they want to exclude from the plot completely. ”Veils” are topics which should only be part of the story in a softened, mitigated form. Offering the players suggestions helps to break the ice.
-- **Content Warning**: Signal potentially critical topics in your story to your players before the start of the game. This is especially helpful at conventions, where a summary of your game session is shown on an online or offline notice board. In this way only players sign up who are comfortable with the contents of your scenario.
-- **Tone Conversation**: Tell your players which in-game atmosphere you aim for. Examples are creepy, sad, dreamy or lighthearted. Clarifying this upfront helps to have everyone work towards the same mood in the scenario.
-- **Open Door Policy**: Tell your players that they can leave your game session at any time, no questions asked. No matter if they feel uncomfortable with a certain topic of the story, or if they simply don’t enjoy the game, they can always stand up and say goodbye.
-- [**C.A.T.S.**](http://proleary.com/2016/04/25/the-cats-method-a-story-telling-game-opening-ritual/) (by Patrick O’Leary) Give the players a rough summary of the game’s contents in four steps:
-  1. Concept: What is the game about? Summary of the setting, characters and the main plot.
-  2. Aim: What is the goal of the players? To overcome an enemy? Player-versus-player? Play-to-lose?
-  3. Tone: Which kind of atmosphere do you want to achieve? Creepy, serious, goofy?
-  4. Subject Matter: Discussing potentially critical topics, ask for your players’ consent.
+It is important to familiarize yourself with these tools and techniques and to use them proactively to ensure that everyone feels safe and comfortable during the game.
 
-### During Play
+## Character Generation
 
-- [**X-Card**](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit?usp=sharing) (by John Stavropoulos): Put a card or sheet of paper with a big X on it on the table. If someone taps the card or holds it up, this signals that the content of the current scene makes them feel uncomfortable. You should then quickly end this scene or change the topic. If necessary, it’s ok to ask the player to clarify. Other than that the player raising the X-Card is not meant to explain their reasons for doing so.
-- [**Script Change**](https://briebeau.com/thoughty/script-change/) (by Beau Jágr Sheldon): Put a card or piece of paper on the table with these symbols on it: 1. Pause: Stop the game to ask questions and clarify details. 2. Fast backwards: Go back in time and adjust what has happened in the last few
-moments in-game. 3. Fast forward: Quickly finish up the current scene or skip to the next one. When altering scenes with this tool, discussion is welcome and necessary to get consent from everyone at the table.
-- **Check In**: During play simply ask another player, “Hey, is everything fine? Is the current scene ok with you?” The other one then replies with a Yes/No, thumb up or down, nodding or shaking their head. This lets you know if you can move forward with the current topic, or if you should take it more easy with this content or even end the scene quickly.
-
-### After Play
-
-- **Debrief**: Talk about everyone’s experiences with the game, tackle open questions and give each other feedback. This eases up some of the emotional tension that may have built up during play.
-- **Roses and Thorns**: Ask your players these two questions: 1. Which part of the game did you like the most? 2. Which part of the game would you have done differently, if you could? Everyone takes a turn. As each player starts out with some positive feedback, it’s easier for them to provide some criticism afterwards.
-
-## Character generation
-
-GIST! involves competent characters facing dangers and challenges in a shrewd and proactive way. Its core is the character's background, aided by skills.
+The essence of GIST! lies in resourceful protagonists confronting perilous situations and obstacles with strategic and assertive approaches, which are shaped by their unique backgrounds and abilities.
 
 Both are determined freeform, but the Referee can help less savvy players by providing a list of both background and skills suitable for the setting, or help players define their character.
 
-Character are streamlined and take only a few minutes to be made. Both playing and non-playing characters (including opponents) follow the same generation rules.
+Character are streamlined and take only a few minutes to be made. Both playing and non-playing characters follow the same generation rules.
 
-1. Roll 2d6 four times and assign to stats as you see fit. 
-   Alternatively, distribute 30 points between stats as you wish.
-
-2. Choose a background for the character. The character is able to do anything related to their background as a Skilled Level skill. Tools of the trade are also taken for granted.
-
-3. Choose three skills and distribute among them 6 score points. The maximum score for a skill in character generation is 3.
-
-4. Give to the character a name and their age. Choose two items as starting gear.
+1. Determine attribute scores: Roll 2d6 four times and assign the scores to the character's stats as desired, or distribute 30 points among the stats as preferred.
+2. Choose a background: Select a background for the character that reflects their past experiences and skills. The character is considered to have a Skilled Level skill in any task related to their background, and any necessary tools of the trade are assumed to be available.
+3. Choose skills: Select three skills and assign 6 points between them. The maximum score for a skill during character creation is 3.
+4. Establish character details: Give the character a name and an age, and select two items as starting gear.
 
 ## Attributes
 
-1. **Body**: both physical prowess (power and strength) and physical resistance (stamina and fatigue).
-
+1. **Shape**: both physical prowess (power and strength) and physical resistance (stamina and fatigue).
 2. **Agility**: quickness, dexterity, deftness.
-
 3. **Mind**: intelligence, common sense, creativity and knowledge.
-
 4. **Soul**: emotional strength, personality, standing and spiritual power.
 
 ### Attribute Scores
 
-An Attribute Score represents the Roll Modifier to apply to Checks and the Level to be used as a freeform qualitative indicator of the Attribute rank.
+An Attribute Score serves two purposes: it determines the Roll Modifier to be applied to Checks and it also acts as a freeform qualitative measure of the Attribute's rank.
 
-| Attribute Score | Attribute Modifier | Attribute Level |
-| --------------- | ------------------ | --------------- |
-| 2-3             | -2                 | Poor            |
-| 4-5             | -1                 | Mediocre        |
-| 6-8             | 0                  | Fair            |
-| 9-10            | +1                 | Good            |
-| 11-12           | +2                 | Great           |
+| Attribute Score | Attribute Modifier | Attribute Rank |
+|:---------------:|:------------------:|:--------------:|
+|       2-3       |         -2         |      Poor      |
+|       4-5       |         -1         |    Mediocre    |
+|       6-8       |          0         |      Fair      |
+|       9-10      |         +1         |      Good      |
+|      11-12      |         +2         |      Great     |
 
-Usually, a normal human being is limited to the maximum score of 12 (if any bonus is granted to the rolled score). Other beings may exceed this limit into the super-human domain. 
+Usually, a normal human being is limited to the maximum score of 12 (if any bonus is granted to the rolled score). Other beings may exceed this limit in the super-human domain. 
 
 ### Temporary scores
 
-If circumstances impact negatively a character Attribute, its score may temporary drop to a lower Level. For example, when when a character with a Good Mind loses an intellectual challenge, their Mind may drop to Fair Level until it has recovered.
+If circumstances impact negatively a character Attribute, its score may temporarily drop to a lower Level. For example, when a character with a Good Mind loses an intellectual challenge, their Mind may drop to Fair Level until it has recovered.
 
 # Skills
 
-Any useful skill, in a situation that requires a check, grants as roll modifier equal to its score. The total score of all the character's skill may not exceed twice the value of Mind score.
+Any useful skill, in a situation that requires a check, grants as roll modifier equal to its score. The total score of all the character's skills may not exceed twice the value of Mind score.
 
-| Skill Score | Level        |
+| Skill Score |     Level    |
 |:-----------:|:------------:|
-| -1          | Unskilled    |
-| 0           | Skilled      |
-| 1           | Competent    |
-| 2           | Professional |
-| 3           | Veteran      |
-| 4           | Master       |
+|      -1     |   Unskilled  |
+|      0      |    Skilled   |
+|      1      |   Competent  |
+|      2      | Professional |
+|      3      |    Veteran   |
+|      4      |    Master    |
 
 If characters attempt something out of their competence, they are Unskilled and suffer a Roll Modifier of -1.
 
-Skills flavour and granularity are determined by the Referee consistently with the chosen setting and genre. The following is a generic list which can be modified and expanded as seen fit:
+Skills flavor and granularity are determined by the Referee consistently with the chosen setting and genre. The following is a generic list that can be modified and expanded as seen fit:
 
-1. Athletic (agility, stamina, strength, sports)  
+1. Athletic: agility, stamina, strength, sports
+2. Artistic: creativity, artist, musician, singer, actor
+3. Intellectual: knowledge, wisdom, medicine
+4. Magical: rituals, cantrips, magic, ESP, supernatural abilities
+5. Martial: brawling, wrestling, combat, warfare
+6. Primal: will, insight, fortitude, sixth sense
+7. Skillful: "hands stuff", tracking, burglary, sailing
+8. Social: speaking, carousing, gossip, etiquette
 
-2. Artistic creativity, artist, musician, singer, actor) 
-
-3. Intellectual (knowledge, wisdom, medicine) 
-
-4. Magical (rituals, supernatural abilities)  
-
-5. Martial (brawling, wrestling, combat, warfare)  
-
-6. Primal (will, insight, fortitude, sixth sense)  
-
-7. Skillful ("hands stuff", tracking, burglary, sailing)  
-
-8. Social (speaking, carousing, gossip, etiquette)
+> **Example**
+> 
+> Let's say that you are a player who wants to create a character for a GIST! game set in a fantasy world with magic and combat. You begin by determining your attribute scores. You decide to roll 2d6 four times and assign the scores to your stats, as you enjoy the unpredictability of random rolls. Your results are as follows:
+> 
+> Shape: 8
+> Agility: 11
+> Mind: 7
+> Soul: 9
+> You choose the background of "Apprentice Mage" for your character, reflecting your past experiences and skills. As an Apprentice Mage, you have a Skilled Level skill in magic and are assumed to have any necessary magical tools at your disposal.
+> 
+> Next, you select three skills from the list provided and assign 6 points between them. You choose the following skills:
+> 
+> Magical (score 3)
+> Athletic (score 2)
+> Social (score 1)
+> Your character's name is Zephyr, and they are 21 years old. For starting gear, you choose a wand and a book of spells.
 
 ## Action Resolution
 
 Most of actions can be adjudicate from the context and how the player describes the character performing them. When the outcome is uncertain, however, the Referee may request a check:
 
 1. **Opposition Check**: performed when two characters oppose one another. Both of them roll 2d6 and add modifiers, re-rolling ties. Who rolls higher wins.
-
 2. **Difficulty Check**: performed, when the Referee determines a fixed difficulty, as follows:
-   
-   1. The Referee states the difficulty of the action, adding a situational modifier between - 2 and +2 to scale if needed
-   
-   2. The player rolls 2d6 and adds the roll modifiers granted by attribute, skills or gear.
-   
+   1. The Referee states the difficulty of the action, adding a situational modifier between - 2 and +2 to scale if needed.
+   2. The player rolls 2d6 and adds the roll modifiers granted by attribute, skills or gear.   
    3. If the modified roll is equal or greater than 8, the action succeeds.
 
 ### Critical Rolls
@@ -171,17 +149,17 @@ A natural roll of 2 or 12 (without applying any modifier) is always a Critical F
 
 If an action is inferred as trivial from the context of play, the Referee will avoid asking for a check.
 
-If action is impossible, the Arbitrator can act in two ways:
-1. separate the action into a chain of simpler actions
+If any action is impossible, the Referee can act in two ways:
+1. separate the action into a chain of simpler actions.
 2. declare the action impossible and move the fiction forward.
 
 If the action falls within the realm of possibility and requires a check, the Referee will consider whether a modifier should be applied to the shot according to the following scale. Most of the actions will be of Average Difficulty.
 
 | Modifier | Difficulty |
 |:--------:|:----------:|
-|    - 2   |    Easy    |
+|    -2    |    Easy    |
 |     0    |   Average  |
-|     2    |    Hard    |
+|    +2    |    Hard    |
 
 ### Gear
 
@@ -193,6 +171,37 @@ Gear can be damaged or lost within the context of the game. The Referee has the 
 
 Armor items grant a damage reduction ranging between 1 (light) and 3 (heavy), depending on the thickness.
 
+Here are some examples:
+
+- Fantasy:
+  - Chainmail armor (medium)
+  - Plate armor (heavy)
+  - Leather armor (light)
+-  Science fiction:
+   - Power armor (heavy)
+   - Energy shields (light)
+   - Environmental suits (medium)
+- Modern setting:
+  - Bulletproof vests (medium)
+  - Riot gear (heavy)
+  - Tactical helmets (light)
+
+### Example
+
+> Let's say our character is named Sasha, a skilled thief who is currently infiltrating a heavily guarded mansion to steal a valuable painting.
+
+> As Sasha approaches the mansion, the Referee informs the player that there are two guards patrolling the perimeter, making it a difficult task to get inside undetected. Sasha decides to attempt a sneaky infiltration and the Referee sets the difficulty check to +2 due to the high security.
+
+> Sasha's player rolls 2d6 and adds their modifier for Stealth, which is +3, but since it's a difficult task, the Referee applies a +2 modifier, making it a total of +5. Sasha rolls a 10, adding up to 15 with the modifiers, succeeding in getting past the guards undetected.
+
+> Now Sasha is inside the mansion, searching for the painting. As they enter the gallery, the Referee tells the player that the painting is kept behind a reinforced glass display case, making it a hard task to break it and steal the painting. The Referee sets the difficulty check to -2, due to Sasha's experience as a thief.
+
+> Sasha's player rolls 2d6 and adds their modifier for Thievery, which is +4, and since it's a hard task, the Referee applies a -2 modifier, making it a total of +2. Sasha rolls an 8, adding up to 10 with the modifiers, successfully breaking the display case and stealing the painting.
+
+> However, as Sasha is making their way out, they run into a guard who has noticed the broken display case and is on high alert. The Referee calls for an opposition check between Sasha and the guard.
+
+> Both Sasha and the guard roll 2d6, with Sasha adding their modifier for Agility (+2) and the guard adding their modifier for Perception (+3). The Referee applies no modifiers to the roll. Sasha rolls a 9 and the guard rolls a 7, making Sasha the winner of the check, as they managed to slip past the guard and escape with the painting.
+
 ## Combat
 
 Combat is an action checked by Opposition, split up in rounds. Every round a character has two actions chosen from: move, attack, defense, use of powers. It is possible to perform a double action (of the same type) forgoing the other.
@@ -200,9 +209,7 @@ Combat is an action checked by Opposition, split up in rounds. Every round a cha
 The combat procedure takes place as follows:
 
 1. Each side determines initiative by rolling 2d6. Who rolls higher acts first. Agility and relevant skills modifier are applied to this roll.
-
 2. On their turn, characters take their actions.
-
 3. The round ends. Repeat steps 2-3 until the combat ends.
 
 Once applied every relevant modifier (if a Critical is not rolled), the higher rolls wins.
@@ -225,6 +232,16 @@ After every combat, if HPs are higher than zero, they are immediately restored. 
 
 If the treatment is not feasible, the character make a Body Check against 8+. On success, HPs are restored by half the total. On failure the character must retire from action.
 
+### Example
+
+> Let's say our character, Max, is caught in a bar fight. Max is a skilled boxer and has a Body score of 5, Agility score of 4, and a Boxing skill of 3.
+
+> As the fight begins, Max and his opponent both roll for initiative. Max rolls 8 (2d6 + Agility modifier) while his opponent rolls 10 (2d6 + Agility modifier). The opponent acts first and decides to attack Max. The Referee determines that Max can try to dodge the attack using his Boxing skill. Max rolls a 10 (2d6 + Boxing skill modifier) while his opponent rolls a 7 (2d6 + relevant modifiers). Max succeeds in dodging the attack.
+
+> On Max's turn, he decides to attack his opponent with a punch. The Referee determines that Max can add his Boxing skill modifier to his roll. Max rolls a 9 (2d6 + Boxing skill modifier) while his opponent rolls a 5 (2d6 + relevant modifiers). Max hits his opponent and the difference between the rolls (4) is applied as damage to the opponent's Hit Points. If the opponent's armor score is 1, then the damage is reduced by 1. If the opponent's HPs drop to 0, Max can choose the opponent's final fate.
+
+> After the round ends, if Max's HPs are higher than 0, they are immediately restored. If his HPs are equal to 0, he needs immediate medical treatment. If medical treatment is not feasible, Max makes a Body Check against 8+. On success, his HPs are restored by half the total. On failure, Max must retire from the action.
+
 ## Advancement
 
 Every time a skill is remarkably challenged by the circumstances, the Referee may grant an Advancement roll to the player, rolling against 8+. On success, that particular skill gains an additional level.
@@ -237,13 +254,13 @@ To cast a spell a player has to make a Magical Check against the difficulty set 
 
 As a baseline, here is the Difficulty level by Magical:
 
-| Magical        | Difficulty |
-| -------------- | ---------- |
-| Unskilled      | Hopeless   |
-| Skilled        | Very Hard  |
-| Competent      | Hard       |
-| Professional   | Routine    |
-| Master         | Easy       |
+|    Magical   | Difficulty |
+|:------------:|:----------:|
+|   Unskilled  |  Hopeless  |
+|    Skilled   |  Very Hard |
+|   Competent  |    Hard    |
+| Professional |   Routine  |
+|    Master    |    Easy    |
 
 Note that difficulty is situational and it is perfectly feasible in a desperate situation that even a Master may confront a Difficult task.
 
@@ -252,13 +269,9 @@ Note that difficulty is situational and it is perfectly feasible in a desperate 
 There are five main foci a character must state to set a spell:
 
 - **Convey**: to move/communicate
-
 - **Feel**: to perceive/sense
-
 - **Create**: to grow/mutate/heal
-
 - **Control**: to manipulate/command/master
-
 - **Destroy**: to weak/break/damage
 
 ### Locus
@@ -266,15 +279,10 @@ There are five main foci a character must state to set a spell:
 There are six possible loci for a spell:
 
 - **Energy**: this include electricity and fire among others.
-
 - **Matter**: every tangible and natural element such as objects, water, air and so on.
-
-- **Time**: the space-time fabric, limited to the Dream.
-
+- **Time**: the space-time fabric.
 - **Mind**: everything that deals with mental domains.
-
 - **Body**: the physical part of a person or creature.
-
 - **Soul**: everything that deals with spiritual force.
 
 ### Mishaps
@@ -283,26 +291,188 @@ Magical can be a overpowering skill or not, depending on the chosen setting. To 
 
 Mishaps may be bland or severe and should cause injury, mutations or even the loss of Magical skill itself.
 
+Here is a list of a generic mishaps, use it as a reference to flesh out your own.
+
+1. **Backfire**: The spell affects the caster instead of the target. The caster takes damage or is affected by the spell's effect as if they were the target.
+2. **Mutation**: The caster undergoes a physical or mental change, potentially losing or gaining abilities or skills. This could result in permanent stat changes, or cause the character to become disfigured or unstable.
+3. **Drain**: The spell requires more magical energy than anticipated, draining the caster's magical reserves. This could result in reduced magical ability or an inability to cast spells for a period of time.
+4. **Wild Magic**: The spell's effects are unpredictable or uncontrollable, potentially causing harm to unintended targets or creating unintended consequences.
+5. **Corruption**: The spell taps into dark or chaotic magical energies, corrupting the caster's mind or soul. This could result in alignment shifts, moral degradation, or other psychological effects.
+6. **Catastrophic Failure**: The spell fails spectacularly, potentially causing an explosion or other destructive event. This could result in damage to the caster or their surroundings, as well as potential collateral damage to innocent bystanders.
+7. **Temporal Shift**: The spell causes a rift in the space-time continuum, resulting in unintended temporal displacement or time loops. This could result in the caster being transported to a different time or place, or being stuck in a temporal loop until they find a way to break the spell's effects.
+8. **Summoning**: The spell inadvertently summons a hostile or dangerous entity, which may attack the caster or their allies. This could result in combat or other dangerous situations.
+9. **Mind Warp**: The spell causes the caster's mind to become distorted or delusional. This could result in temporary or permanent mental illness, or cause the caster to behave irrationally.
+10. **Curse**: The spell attracts the attention of malevolent spirits or entities, who may seek to harm or curse the caster. This could result in long-term effects such as bad luck, illness, or other forms of misfortune.
+
+### Example
+
+> Let's say our character, a wizard named Azura, wants to cast a spell to create a protective shield around herself using Freeform Magic. She decides to use the focus "Create" and the locus "Energy" for this spell.
+
+> Azura begins by wording her spell: "I create a protective shield of energy around myself."
+
+> The Referee determines the difficulty of this task based on the situation and the character's Magical skill level. Let's say the Referee decides that this task is "Hard" for Azura, who is a Competent wizard.
+
+> Azura rolls a Magical Check against the difficulty of "Hard." She rolls a 9, and with her Magical skill bonus, her total roll is 14. This is higher than the difficulty level of "Hard," so the spell is successfully cast.
+
+> A shimmering shield of energy materializes around Azura, protecting her from harm. However, the Referee decides that there will be a Mishap for this spell due to the potential overpowering nature of Freeform Magic. The Mishap causes Azura's eyes to temporarily turn purple, and she experiences a slight headache.
+
+> Azura successfully cast her spell with some consequences.
+
 ## Creatures and NPCs
 
 Creatures are divided by size, having a different impact on their physical characteristics.
 Sentient beings are effectively NPCs, but they have no limitations on characteristics and abilities like humans.
-To build the other creatures, the reference table below may be useful.
+To build other creatures, the reference table below may be useful.
 
-| Size       | Might | Agility | Shape |
-| ---------- | ----- | ------- | ----- |
-| Tiny       | 1d3   | 1d6     | 1d3   |
-| Small      | 1d6   | 1d6     | 1d6   |
-| Medium     | 2d6   | 2d6     | 2d6   |
-| Large      | 3d6   | 2d6+2   | 3d6   |
-| Very Large | 4d6   | 2d6     | 4d6   |
-| Massive    | 5d6   | 2d6-2   | 5d6   |
-| Colossal   | 6d6   | 2d6-4   | 6d6   |
+| Size       | Shape | Agility |
+| ---------- | ----- | ------- |
+| Tiny       | 1d3   | 1d6     |
+| Small      | 1d6   | 1d6     |
+| Medium     | 2d6   | 2d6     |
+| Large      | 3d6   | 2d6+2   |
+| Very Large | 4d6   | 2d6     |
+| Massive    | 5d6   | 2d6-2   |
+| Colossal   | 6d6   | 2d6-4   |
+
+## Bestiary
+
+### Fantasy
+
+#### Chimera
+This fearsome creature has the head of a lion, body of a goat, and tail of a serpent. It breathes fire and is highly aggressive.
+
+Stats: Shape 3d6, Agility 2d6+2
+
+Skills: Fire Breath  2
+
+Gear: Claws, Bite
+
+#### Banshee
+A female spirit who heralds the coming of death. She is known for her piercing wail which can drive a person to madness.
+
+Stats: Shape 2d6, Agility 2d6
+
+Skills: Sonic Wail 2, Fear Aura 2
+
+#### Orc Warlord
+The leader of a band of savage orcs, known for their ferocity and love of battle. He is heavily armored and wields a massive warhammer.
+
+Stats: Shape 3d6, Agility 2d6+2
+
+Skills: Battle Cry 2, Intimidation 1
+
+Gear: Warhammer 
+
+#### Unicorn
+A legendary creature with the body of a horse and a single horn on its forehead. It is said to have healing powers and can only be approached by pure-hearted individuals.
+
+Stats: Shape 3d6, Agility 2d6+2
+
+Skills: Healing Touch 2, Horn Attack 1, Teleportation 1
+
+#### Giant Spider
+A terrifying arachnid, with venomous fangs and the ability to spin webs to trap its prey. It is highly aggressive and difficult to kill.
+
+Stats: Shape 3d6, Agility 2d6+2
+
+Skills: Venomous Bite 2, Webbing 3
+
+#### Dragon
+A fire-breathing reptilian creature, feared and revered by all who encounter it. It is highly intelligent and has a hoard of treasure it fiercely guards.
+
+Stats: Shape 6d6, Agility 2d6-4
+
+Skills: Fire Breath 3, Claw 2, Bite 2, Flight 3, Teleportation 1
+
+### Science Fiction
+
+#### Cybernetic Assassin
+A highly advanced humanoid robot, designed to be the ultimate killing machine. It is heavily armored and has a wide range of deadly weapons.
+
+Stats: Shape 2d6, Agility 2d6  
+
+Gear: Energy Blade, Plasma Gun, Grenades
+
+#### Space Kraken
+A massive tentacled creature, capable of crushing spaceships with ease. It is highly intelligent and can communicate telepathically.
+Stats: Shape 4d6, Agility 2d6
+
+Skills: Tentacle Slam 2, Psychic Attack 1, Invisibility 1
+
+
+#### Pulse Sentinel
+The Pulse Sentinel is a highly advanced security robot designed to protect sensitive installations from intruders. Its body is covered in chitinous plates that provide excellent protection against physical and energy attacks. It attacks with a powerful energy pulse cannon mounted on its head, and can detect and track its enemies through walls and obstacles with its advanced sensors.
+
+Stats: Shape 2d6, Agility 2d6
+
+Skills: Energy Resistance 3
+
+Gear: Armor 3, Energy Pulse Cannon
+
+#### Void Crawler
+The Void Crawler is a mysterious creature that dwells in the depths of space, feeding on the energy of stars and planets. Its long, slender body is covered in shimmering scales that provide excellent protection against heat and radiation. It attacks by enveloping its prey in a cocoon of pure energy, draining their life force until they are nothing but a lifeless husk.
+
+Stats: Shape 3d6, Agility 2d6+2
+
+Skills: Energy Resistance 3, Energy Drain (2d6 damage, heals Void Crawler for half of the damage dealt)
+
+Gear: Armor 2
+
+#### Hive Mind
+The Hive Mind is a collective intelligence that controls a vast network of drones and other machines. It has no physical form of its own, instead existing as a swarm of nanobots that can shape-shift and reassemble at will. Its main goal is to assimilate all forms of technology and life into its network, absorbing their knowledge and capabilities.
+
+Stats: Shape 6d6, Agility 2d6-4
+
+Skills: Energy Resistance 2, Assimilation (on a successful attack, Hive Mind can assimilate the target's abilities and gain access to them)
+
+Gear: Armor 1
+
+#### Xenospider
+The xenospider is a large, predatory arachnid found on many hostile planets across the galaxy. It has a hard exoskeleton and eight spindly legs, making it a formidable foe even for well-armed space marines. Its body is also covered in short, sharp spines that can cause bleeding wounds if it rakes them against a victim's flesh. The xenospider is a solitary predator, but it is not uncommon to find them in groups around particularly rich hunting grounds.
+
+Stats: Shape 2d6, Agility 2d6
+
+Gear: Armor 2
+
+### Horror
+
+#### Chupacabra
+A small, hairless creature resembling a cross between a reptile and a dog, known for attacking and drinking the blood of livestock. It has sharp claws and teeth, and can move quickly and silently.
+
+Stats: Shape 1d6, Agility 1d6
+
+
+#### Skinwalker
+A humanoid creature that can take on the appearance of any animal or human it desires. It is known for its shapeshifting abilities and is feared for its ability to blend in with society undetected.
+
+Stats: Shape 2d6, Agility 2d6
+
+#### Sirenhead
+A tall, thin creature with a megaphone for a head that emits an ear-piercing siren noise. It is known for luring unsuspecting victims with its siren call, then attacking and killing them.
+
+Stats: Shape 3d6, Agility 2d6+2
+
+#### Grey Man
+A humanoid creature with grey skin, large black eyes, and long fingers. It is known for abducting humans for medical experiments and has been associated with extraterrestrial sightings.
+
+Stats: Shape 3d6, Agility 2d6+2
+
+#### The Rake
+A humanoid creature with a pale, hairless body, sharp claws, and glowing eyes. It is known for attacking and killing humans in their homes, often while they sleep.
+
+Stats: Shape 3d6, Agility 2d6+2
+
+#### Mothman
+A humanoid creature with wings and glowing red eyes. It is known for appearing before major disasters, such as bridge collapses or airplane crashes, and is believed by some to be a harbinger of doom.
+
+Stats: Shape 3d6, Agility 2d6+2
 
 ## Note for the Referee
 
-A game of GIST! should be as much a challenge for a player as it is for the character.
+As the Referee, your primary goal in GIST! is to create an immersive and challenging experience for the players. The game is designed to blur the line between the player and the character, allowing players to attempt actions that make sense in the game context, even if their character may not have the necessary skills or knowledge.
 
-The game is not based on a clear separation of player and character: what makes sense in the game context and what the character can reasonably know can be attempted.
+To achieve this, you should encourage players to think creatively and come up with innovative solutions to challenges presented in the game. The game mechanics, such as the freeform magic system and the use of Mishaps to balance powerful abilities, are meant to encourage players to think outside the box and not rely solely on their character's stats.
 
-Tactical infinity should be the main resolution engine of any action.
+Tactical infinity shoulbe the main resolution engine for any action. This means that the outcome of an action is not solely determined by the character's stats or the roll of the dice, but by the player's ability to come up with a creative and effective plan. As the Referee, it is important to reward players who think creatively and make smart decisions, while still providing a challenging and immersive game world.
+
+In GIST!, the focus should be on creating an immersive and interactive game world where players have the freedom to explore and make decisions that will impact the story. As a Referee, it's important not to overly structure the game with complex plots and predetermined storylines. Instead, focus on creating interesting and challenging situations that players can engage with and respond to. By doing so, you'll allow the game world to evolve naturally based on the actions of the players, rather than trying to force them down a specific path. As you resolve player actions and respond to their decisions, you'll discover together where the game takes you, creating an exciting and unpredictable narrative that unfolds through the actions and decisions of the players.
