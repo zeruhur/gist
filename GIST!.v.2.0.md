@@ -155,9 +155,9 @@ If an action is possible but requires a check, the Referee will determine if any
 
 | Modifier | Difficulty |
 |:--------:|:----------:|
-|    -2    |    Easy    |
+|    +2    |    Easy    |
 |     0    |   Average  |
-|    +2    |    Hard    |
+|    -2    |    Hard    |
 
 ### Gear
 
@@ -169,21 +169,21 @@ The thickness of armor determines the extent of damage reduction it provides, wh
 
 Here are some examples:
 
-| Armor Type & Value | Fantasy   | Science Fiction   | Modern           |
-| ------------------ | --------- | ----------------- | ---------------- |
-| Light (1)          | Leather   | Energy Shield     | Tactical Helmet  |
-| Medium (2)         | Chainmail | Enviromental Suit | Bulletproof Vest |
-| Heavy  (3)         | Plate     | Power Armor       | Riot Gear        |
+| Armor Type & Value | Fantasy   | Science Fiction | Modern           |
+| ------------------ | --------- | --------------- | ---------------- |
+| Light (1)          | Leather   | Energy Shield   | Tactical Helmet  |
+| Medium (2)         | Chainmail | Hazmat Suit     | Bulletproof Vest |
+| Heavy  (3)         | Plate     | Power Armor     | Riot Gear        |
 
 ### Example
 
 > Let's say our character is named Sasha, a skilled thief who is currently infiltrating a heavily guarded mansion to steal a valuable painting.
 
-> As Sasha approaches the mansion, the Referee informs the player that there are two guards patrolling the perimeter, making it a difficult task to get inside undetected. Sasha decides to attempt a sneaky infiltration and the Referee sets the difficulty check to +2 due to the high security.
+> As Sasha approaches the mansion, the Referee informs the player that there are two guards patrolling the perimeter, making it a difficult task to get inside undetected. Sasha decides to attempt a sneaky infiltration and the Referee sets the difficulty check to -2 due to the high security.
 
-> Sasha's player rolls 2d6 and adds their modifier for Stealth, which is +3, but since it's a difficult task, the Referee applies a +2 modifier, making it a total of +5. Sasha rolls a 10, adding up to 15 with the modifiers, succeeding in getting past the guards undetected.
+> Sasha's player rolls 2d6 and adds their modifier for Stealth, which is +3, but since it's a difficult task, the Referee applies a +2 modifier, making it a total of +1. Sasha rolls a 10, adding up to 11 with the modifiers, succeeding in getting past the guards undetected.
 
-> Now Sasha is inside the mansion, searching for the painting. As they enter the gallery, the Referee tells the player that the painting is kept behind a reinforced glass display case, making it a hard task to break it and steal the painting. The Referee sets the difficulty check to -2, due to Sasha's experience as a thief.
+> Now Sasha is inside the mansion, searching for the painting. As they enter the gallery, the Referee tells the player that the painting is kept behind a reinforced glass display case, making it a hard task to break it and steal the painting. The Referee sets the difficulty check to +2, due to Sasha's experience as a thief.
 
 > Sasha's player rolls 2d6 and adds their modifier for Thievery, which is +4, and since it's a hard task, the Referee applies a -2 modifier, making it a total of +2. Sasha rolls an 8, adding up to 10 with the modifiers, successfully breaking the display case and stealing the painting.
 
@@ -221,13 +221,13 @@ After every combat, characters' HPs are restored immediately if they are higher 
 
 ### Example
 
-> Let's say our character, Max, is caught in a bar fight. Max is a skilled boxer and has a Body score of 5, Agility score of 4, and a Boxing skill of 3.
+> Let's say our character, Max, is caught in a bar fight. Max is a skilled boxer and has a Shape score of 5, Agility score of 4, and a Boxing skill of 3.
 
 > As the fight begins, Max and his opponent both roll for initiative. Max rolls 8 (2d6 + Agility modifier) while his opponent rolls 10 (2d6 + Agility modifier). The opponent acts first and decides to attack Max. The Referee determines that Max can try to dodge the attack using his Boxing skill. Max rolls a 10 (2d6 + Boxing skill modifier) while his opponent rolls a 7 (2d6 + relevant modifiers). Max succeeds in dodging the attack.
 
 > On Max's turn, he decides to attack his opponent with a punch. The Referee determines that Max can add his Boxing skill modifier to his roll. Max rolls a 9 (2d6 + Boxing skill modifier) while his opponent rolls a 5 (2d6 + relevant modifiers). Max hits his opponent and the difference between the rolls (4) is applied as damage to the opponent's Hit Points. If the opponent's armor score is 1, then the damage is reduced by 1. If the opponent's HPs drop to 0, Max can choose the opponent's final fate.
 
-> After the round ends, if Max's HPs are higher than 0, they are immediately restored. If his HPs are equal to 0, he needs immediate medical treatment. If medical treatment is not feasible, Max makes a Body Check against 8+. On success, his HPs are restored by half the total. On failure, Max must retire from the action.
+> After the round ends, if Max's HPs are higher than 0, they are immediately restored. If his HPs are equal to 0, he needs immediate medical treatment. If medical treatment is not feasible, Max makes a Shape Check against 8+. On success, his HPs are restored by half the total. On failure, Max must retire from the action.
 
 ## Advancement
 
@@ -239,13 +239,14 @@ Magical skill allows a player to attempt to cast a spell by crafting a simple ph
 
 As a baseline, here is the Difficulty level by Magical:
 
-|  Magical  | Difficulty |
-|:---------:|:----------:|
-| Unskilled |  Hopeless  |
-|  Skilled  |  Very Hard |
-| Competent |    Hard    |
-|  Veteran  |   Routine  |
-|   Master  |    Easy    |
+|    Magical   | Difficulty |
+|:------------:|:----------:|
+|   Unskilled  |  Hopeless  |
+|    Skilled   |  Very Hard |
+|   Competent  |    Hard    |
+| Professional |  Moderate  |
+|    Veteran   |   Routine  |
+|    Master    |    Easy    |
 
 Note that difficulty is situational and it is perfectly feasible in a desperate situation that even a Master may confront a Difficult task.
 
@@ -297,9 +298,10 @@ Here is a list of a generic mishaps, use it as a reference to flesh out your own
 
 > The Referee determines the difficulty of this task based on the situation and the character's Magical skill level. Let's say the Referee decides that this task is "Hard" for Azura, who is a Competent wizard.
 
-> Azura rolls a Magical Check against the difficulty of "Hard." She rolls a 9, and with her Magical skill bonus, her total roll is 14. This is higher than the difficulty level of "Hard," so the spell is successfully cast.
+> Azura rolls a Magical Check against the difficulty of "Hard." She rolls a 9, and with her Magical skill bonus, her total roll is 10. This is higher than 8, so the spell is successfully cast.
 
-> A shimmering shield of energy materializes around Azura, protecting her from harm. However, the Referee decides that there will be a Mishap for this spell due to the potential overpowering nature of Freeform Magic. The Mishap causes Azura's eyes to temporarily turn purple, and she experiences a slight headache.
+> A shimmering shield of energy materializes around Azura, protecting her from harm. However, given the narrow margin of success, the Referee decides that there will be a Mishap for this spell due to the potential overpowering nature of Freeform Magic. The Mishap causes Azura's eyes to temporarily turn purple, and she experiences a slight headache.
+
 
 > Azura successfully cast her spell with some consequences.
 
@@ -458,7 +460,7 @@ As the Referee, your primary goal in GIST! is to create an immersive and challen
 
 To achieve this, you should encourage players to think creatively and come up with innovative solutions to challenges presented in the game. The game mechanics, such as the freeform magic system and the use of Mishaps to balance powerful abilities, are meant to encourage players to think outside the box and not rely solely on their character's stats.
 
-Tactical infinity should be the main resolution engine for any action. This means that the outcome of an action is not solely determined by the character's stats or the roll of the dice, but by the player's ability to come up with a creative and effective plan. As the Referee, it is important to reward players who think creatively and make smart decisions, while still providing a challenging and immersive game world.
+Tactical infinity should be the main resolution engine for any action. This means that the outcome of an action is not solely determined by the character's stats or the roll of the dice, but by the player's ability to come up with a creative and effective plan.
 
 In GIST!, the focus should be on creating an immersive and interactive game world where players have the freedom to explore and make decisions that will impact the story. As a Referee, it's important not to overly structure the game with complex plots and predetermined storylines. Instead, focus on creating interesting and challenging situations that players can engage with and respond to. By doing so, you'll allow the game world to evolve naturally based on the actions of the players, rather than trying to force them down a specific path. As you resolve player actions and respond to their decisions, you'll discover together where the game takes you, creating an exciting and unpredictable narrative that unfolds through the actions and decisions of the players.
 
