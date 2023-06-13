@@ -1,2 +1,0 @@
-# GIST!
-This repository is the main source for the role-playing game generic system GIST!, a very freeform and streamlined ruleset, inspired by the Free Kriegsspiel Revolution and Old School Renaissance movements, based on the most famous old school sci-fi RPG, but intended to be used in any setting or genre.
